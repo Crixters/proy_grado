@@ -42,11 +42,9 @@ def get_support_questions_answers(urlSupport):
                 br.replace_with("\n")
             contact_text = support_information_body.get_text().strip().replace("   ","")
 
-        questions_array.append("contacto o canales de atención "+department_title)
-        answers_array.append(contact_text)
-
-    questions_answers_array.append(questions_array)
-    questions_answers_array.append(answers_array)
+        questions_answers_array.append("contacto o canales de atención "+department_title)
+        questions_answers_array.append(contact_text)
+   
     return questions_answers_array
 
 

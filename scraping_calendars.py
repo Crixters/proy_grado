@@ -14,8 +14,8 @@ def get_academic_calendar_questions_answers(url_calendar):
     soup_object = BeautifulSoup(response.content,'html.parser')
     calendar_tables = soup_object.find_all('table',{'class':'tabla-calendario'})
     questions_answers_array = []
-    questions_array = []
-    answers_array = []
+    questions = []
+    answers = []
 
     for table in calendar_tables:
         if not "tic" in table.find('th').get_text().lower():
@@ -23,14 +23,17 @@ def get_academic_calendar_questions_answers(url_calendar):
             for table_register in table_registers:
                tables_d = table_register.find_all('td')
                if len(tables_d) == 2:
-                    question = tables_d[0].get_text().strip() + " 2021 02"
+                    question = tables_d[0].get_text().strip() + " "+url_calendar.split("/")[-1]
                     answer = tables_d[1].get_text().strip()
-                    questions_array.append(question)
-                    answers_array.append(answer)
+                    questions.append(question)
+                    answers.append(answer)
 
-    questions_answers_array.append(questions_array)
-    questions_answers_array.append(answers_array)
+    questions_answers_array.append(questions)
+    questions_answers_array.append(answers)                
+ 
     return questions_answers_array
+
+#get_academic_calendar_questions_answers(url_pregrado_current_year_02)
 
 
 
