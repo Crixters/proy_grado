@@ -1,7 +1,7 @@
 from bs4 import BeautifulSoup
 import requests
-import unidecode
 import re 
+import utils
 
 def get_uac_tuition_prices_questions_answers():
     url_tuition_prices = "https://www.uac.edu.co/programas/valores-de-matricula"
@@ -21,10 +21,9 @@ def get_uac_tuition_prices_questions_answers():
         for tr in trs:
             question_answer = []
             first_td = tr.find('td',{'class':'first'})
-            question = "valor de matricula "+first_td.get_text(strip=True)
-            question = question.lower()
-            question = unidecode.unidecode(question)
-            question = re.sub(r'[^\w]', ' ', question)
+            question = "valor de matricula "+first_td.get_text(strip=True).split("-")[0]
+            question = utils.adapt_phrase_to_bot(question)
+
             first_td.extract()
             tds = tr.find_all('td')
             answer = ""
@@ -39,10 +38,8 @@ def get_uac_tuition_prices_questions_answers():
 
 def get_uac_programs_questions_answers(url, question):
 
-    question = question.lower()
-    question = unidecode.unidecode(question)
-    question = re.sub(r'[^\w]', ' ', question)
-
+    question = utils.adapt_phrase_to_bot(question)
+    
     questions_answers_array = []
     question_answer = []
 

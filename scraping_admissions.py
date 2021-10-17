@@ -1,13 +1,12 @@
 from bs4 import BeautifulSoup
 import requests
 import re
-import unidecode 
+import utils
 
 def get_admission_process_questions_answers(url, question):
 
     question = question.lower()
-    question = unidecode.unidecode(question)
-    question = re.sub(r'[^\w]', ' ', question)
+    question = utils.adapt_phrase_to_bot(question)
 
     response = requests.get(url)
     soup_object = BeautifulSoup(response.content,'html.parser')

@@ -1,9 +1,9 @@
 {
     "intents": [
         {
-            "tag": "proceso de inscripcion   admision aspirantes nuevos",
+            "tag": "proceso de inscripcion admision estudiante aspirante nuevo",
             "patterns": [
-                "proceso de inscripcion   admision aspirantes nuevos"
+                "proceso de inscripcion admision estudiante aspirante nuevo"
             ],
             "responses": [
                 "\u2022 Ingresa a inscripciones.uac.edu.co\n\nIngresa a\r\ninscripciones.uac.edu.co selecciona en tipo de vinculaci\u00f3n\r\nASPIRANTE NUEVO al hacer clic ser\u00e1s redireccionado al formulario de registro\r\nhttp://epica.uac.edu.co/ en donde deber\u00e1s diligenciar todos los campos que aqui son requeridos (campos marcados*).\r\nAseg\u00farate de tener acceso al correo que vas a registrar, ya que a ese correo te enviaremos un c\u00f3digo de verificaci\u00f3n que el sistema te solicitar\u00e1 digitar para la culminaci\u00f3n de tu registro y activaci\u00f3n de tu usuario.\nUna vez creado tu usuario, recuerda que la clave de ingreso es la misma que anotaste en el registro.\n\n\u2022 Ingresa a epica.uac.edu.co/inscripciones\n\nPAGO DE INSCRIPCI\u00d3N\nIngresa aepica.uac.edu.co/inscripcionescon los datos de tu cuenta los cuales te fueron notificados a tu correo, completa el registro ydescarga el volante de pago en la opci\u00f3n PAGAR, para que realices el pago en el banco asignado o puedes cancelar en l\u00ednea el valor de la inscripci\u00f3n. \r\n\nPOSTULACI\u00d3N AL PROGRAMA\nUna vez realizado y validado el pago de la inscripci\u00f3n (2 d\u00edas h\u00e1biles si el pago fue realizado a trav\u00e9s de un banco y 2 horas si el pago fue realizado en l\u00ednea) ingresa a: inscripciones.uac.edu.co diligencia los campos pendientes y luego escanea y carga cada uno de los documentos requeridos para poder as\u00ed culminar con esta primera etapa del proceso de vinculaci\u00f3n a nuestra universidad.\n\n\u2022 Proceso de admisi\u00f3n\n\nVERIFICACI\u00d3N DE DOCUMENTACI\u00d3N Y ADMISI\u00d3N\nUna vez verificada la documentaci\u00f3n cargada en el sistema \u00c9pica se le notificar\u00e1 v\u00eda correo electr\u00f3nico su admisi\u00f3n. Si en la verificaci\u00f3n se anota una observaci\u00f3n, el inscrito deber\u00e1 actualizar y adjuntar el documento requerido para su tipo de ingreso.\n\n\u2022 Entrega de orden financiera\n\nA su correo llega la notificaci\u00f3n de admisi\u00f3n y los pasos para descargar la orden financiera. O ingrese a: http://portaldepagos.uac.edu.co/ seleccionando la opci\u00f3n matr\u00edcula.\nEn la orden de matr\u00edcula esta especificada la entidad bancaria en la cual debes realizar el pago, si deseas hacer el pago de tu matr\u00edcula en l\u00ednea puedes hacerlo a tr\u00e1ves de\r\nhttp://portaldepagos.uac.edu.co\n/seleccionando la opci\u00f3n de Pagos on line.\n\nSi el pago de la matr\u00edcula lo realizas a trav\u00e9s de entidades financieras o respaldado por alg\u00fan fondo de empleados o cajas de compensaci\u00f3n no olvides legalizar tu matr\u00edcula financiera ante cr\u00e9dito y cartera con los soportes del pago realizado. Conoce aqu\u00ed los canales de atenci\u00f3n que la Oficina de Cr\u00e9dito y Cartera ha dispuesto para la radicaci\u00f3n de estos casos.\n\nNOTA: Los pagos realizados en entidades financieras tardan 2 d\u00edas h\u00e1biles para reflejarse en el sistema y los pagos en l\u00ednea tardan 2 horas.\n\n\u2022 Ingresa a epica.uac.edu.co/estudiantes\n\nUna vez reflejada tu matr\u00edcula financiera el siguiente paso es tu matr\u00edcula acad\u00e9mica (asignaci\u00f3n de los grupos y cursos a ver durante el semestre), para la que contar\u00e1s con la ayuda del personal administrativo de tu programa.\n\nPara este primer semestre tu matr\u00edcula acad\u00e9mica ser\u00e1 asignada desde tu programa, para la consulta de tus grupos y cursos asignados debes ingresar a\r\nepica.uac.edu.co/estudiantescon la cuenta creada para tu proceso de inscripci\u00f3n.\n\nUna vez has ingresado a nuestro sistema \u00c9pica puedes consultar la asignaci\u00f3n de tus cursos en la opci\u00f3n agenda.\n\n"
@@ -11,9 +11,9 @@
             "context_set": ""
         },
         {
-            "tag": "proceso de inscripcion   admision aspirantes transferencia externa",
+            "tag": "proceso de inscripcion admision estudiante aspirante transferencia externa",
             "patterns": [
-                "proceso de inscripcion   admision aspirantes transferencia externa"
+                "proceso de inscripcion admision estudiante aspirante transferencia externa"
             ],
             "responses": [
                 "\u2022 Ingresa a inscripciones.uac.edu.co\n\nIngresa a\r\ninscripciones.uac.edu.co selecciona en tipo de vinculaci\u00f3n\r\nASPIRANTE NUEVO al hacer clic ser\u00e1s redireccionado al formulario de registro\r\nhttp://epica.uac.edu.co/ en donde deber\u00e1s diligenciar todos los campos que aqui son requeridos (campos marcados*).\r\nAseg\u00farate de tener acceso al correo que vas a registrar, ya que a ese correo te enviaremos un c\u00f3digo de verificaci\u00f3n que el sistema te solicitar\u00e1 digitar para la culminaci\u00f3n de tu registro y activaci\u00f3n de tu usuario.\nUna vez creado tu usuario, recuerda que la clave de ingreso es la misma que anotaste en el registro.\n\n\u2022 Ingresa a epica.uac.edu.co/inscripciones\n\nPAGO DE INSCRIPCI\u00d3N\nIngresa aepica.uac.edu.co/inscripcionescon los datos de tu cuenta los cuales te fueron notificados a tu correo, completa el registro ydescarga el volante de pago en la opci\u00f3n PAGAR, para que realices el pago en el banco asignado o puedes cancelar en l\u00ednea el valor de la inscripci\u00f3n. \r\n\nPOSTULACI\u00d3N AL PROGRAMA\nUna vez realizado y validado el pago de la inscripci\u00f3n (2 d\u00edas h\u00e1biles si el pago fue realizado a trav\u00e9s de un banco y 2 horas si el pago fue realizado en l\u00ednea) ingresa a: inscripciones.uac.edu.co diligencia los campos pendientes y luego escanea y carga cada uno de los documentos requeridos para poder as\u00ed culminar con esta primera etapa del proceso de vinculaci\u00f3n a nuestra universidad.\n\n\u2022 Proceso de admisi\u00f3n\n\nVERIFICACI\u00d3N DE DOCUMENTACI\u00d3N Y ADMISI\u00d3N\nUna vez verificada la documentaci\u00f3n cargada en el sistema \u00c9pica se le notificar\u00e1 v\u00eda correo electr\u00f3nico su admisi\u00f3n. Si en la verificaci\u00f3n se anota una observaci\u00f3n, el inscrito deber\u00e1 actualizar y adjuntar el documento requerido para su tipo de ingreso.\n\n\u2022 Entrega de orden financiera\n\nA su correo llega la notificaci\u00f3n de admisi\u00f3n y los pasos para descargar la orden financiera. O ingrese a: http://portaldepagos.uac.edu.co/ seleccionando la opci\u00f3n matr\u00edcula.\nEn la orden de matr\u00edcula esta especificada la entidad bancaria en la cual debes realizar el pago, si deseas hacer el pago de tu matr\u00edcula en l\u00ednea puedes hacerlo a tr\u00e1ves de\r\nhttp://portaldepagos.uac.edu.co\n/seleccionando la opci\u00f3n de Pagos on line.\n\nSi el pago de la matr\u00edcula lo realizas a trav\u00e9s de entidades financieras o respaldado por alg\u00fan fondo de empleados o cajas de compensaci\u00f3n no olvides legalizar tu matr\u00edcula financiera ante cr\u00e9dito y cartera con los soportes del pago realizado. Conoce aqu\u00ed los canales de atenci\u00f3n que la Oficina de Cr\u00e9dito y Cartera ha dispuesto para la radicaci\u00f3n de estos casos.\n\nNOTA: Los pagos realizados en entidades financieras tardan 2 d\u00edas h\u00e1biles para reflejarse en el sistema y los pagos en l\u00ednea tardan 2 horas.\n\n\u2022 Ingresa a epica.uac.edu.co/estudiantes\n\nUna vez reflejada tu matr\u00edcula financiera el siguiente paso es tu matr\u00edcula acad\u00e9mica (asignaci\u00f3n de los grupos y cursos a ver durante el semestre), para la que contar\u00e1s con la ayuda del personal administrativo de tu programa.\n\nPara este primer semestre tu matr\u00edcula acad\u00e9mica ser\u00e1 asignada desde tu programa, para la consulta de tus grupos y cursos asignados debes ingresar a\r\nepica.uac.edu.co/estudiantescon la cuenta creada para tu proceso de inscripci\u00f3n.\n\nUna vez has ingresado a nuestro sistema \u00c9pica puedes consultar la asignaci\u00f3n de tus cursos en la opci\u00f3n agenda.\n\n"
@@ -21,9 +21,9 @@
             "context_set": ""
         },
         {
-            "tag": "proceso de inscripcion   admision aspirantes transferencia interna",
+            "tag": "proceso de inscripcion admision estudiante aspirante transferencia interna",
             "patterns": [
-                "proceso de inscripcion   admision aspirantes transferencia interna"
+                "proceso de inscripcion admision estudiante aspirante transferencia interna"
             ],
             "responses": [
                 "\u2022 Ingresa a inscripciones.uac.edu.co\n\nIngresa a\r\ninscripciones.uac.edu.co con las credenciales de acceso (usuario, contrase\u00f1a) que venias manejando en el anterior programa.\n\n\u2022 Ingresa a epica.uac.edu.co/inscripciones\n\nPAGO DE INSCRIPCI\u00d3N\nIngresa aepica.uac.edu.co/inscripcionescon los datos de tu cuenta los cuales te fueron notificados a tu correo, completa el registro ydescarga el volante de pago en la opci\u00f3n PAGAR, para que realices el pago en el banco asignado o puedes cancelar en l\u00ednea el valor de la inscripci\u00f3n. \r\n\nPOSTULACI\u00d3N AL PROGRAMA\nUna vez has ingresado ainscripciones.uac.edu.co selecciona en tipo de ingreso transferencia interna, escoje el programa a inscribirte y diligencia los datos que el sistema requiere.\n\n\u2022 Entrega de orden financiera\n\nLuego de adjuntar los documentos requeridos, a su correo llega la notificaci\u00f3n de admisi\u00f3n y los pasos para descargar la orden financiera. O ingrese\r\nhttp://portaldepagos.uac.edu.co/seleccionando la opci\u00f3n matr\u00edcula.\nEn la orden de matr\u00edcula esta especificada la entidad bancaria en la cual debes realizar el pago, si deseas hacer el pago de tu matr\u00edcula en l\u00ednea puedes hacerlo a trav\u00e9s de\r\nhttp://portaldepagos.uac.edu.co/seleccionando la opci\u00f3n de Pagos on line.\n\nSi el pago de la matr\u00edcula lo realizas a trav\u00e9s de entidades financieras o respaldado por alg\u00fan fondo de empleados o cajas de compensaci\u00f3n no olvides legalizar tu matr\u00edcula financiera ante cr\u00e9dito y cartera con los soportes del pago realizado. Conoce aqu\u00ed los canales de atenci\u00f3n que la Oficina de Cr\u00e9dito y Cartera ha dispuesto para la radicaci\u00f3n de estos casos. \n\nNOTA:Los pagos realizados en entidades financieras tardan 2 d\u00edas h\u00e1biles para reflejarse en el sistema y los pagos en l\u00ednea tardan 2 horas.\n\n"
@@ -31,9 +31,9 @@
             "context_set": ""
         },
         {
-            "tag": "proceso de inscripcion   admision aspirantes a reingreso",
+            "tag": "proceso de inscripcion admision estudiante aspirante a reingreso",
             "patterns": [
-                "proceso de inscripcion   admision aspirantes a reingreso"
+                "proceso de inscripcion admision estudiante aspirante a reingreso"
             ],
             "responses": [
                 "\u2022 Ingresa a inscripciones.uac.edu.co\n\nSelecciona en tipo de vinculaci\u00f3n\r\nUSUARIO REGISTRADO, con las credenciales de acceso (usuario y contrase\u00f1a) que venias manejando en t\u00fa anterior programa; selecciona en tipo de ingreso: Reingreso, escoge el programa a inscribirte y diligencia los datos solicitados.\n\n\u2022 Ingresa a epica.uac.edu.co/inscripciones\n\nCon los datos de tu cuenta, descarga el volante de pago en la opci\u00f3n\r\nPAGAR, para que realices el pago en el banco asignado o puedes cancelar en l\u00ednea el valor de la inscripci\u00f3n.\n\n\u2022 Pago de inscripci\u00f3n\n\nIngresa a\r\nepica.uac.edu.co/inscripciones/con los datos de tu cuenta, descarga el volante de pago en la opci\u00f3n PAGAR, para que realices el pago en el banco asignado o puedes cancelar en l\u00ednea el valor de la inscripci\u00f3n.\r\n\nENTREGA DE DOCUMENTOS\n\nUna vez realizado y validado el pago de la inscripci\u00f3n por reingreso(2 d\u00edas h\u00e1biles si el pago fue realizado a trav\u00e9s de un banco y 2 horas si el pago fue realizado en l\u00ednea) debe ingresar nuevamente a: inscripciones.uac.edu.co con su usuario y contrase\u00f1a registrado, diligencia los campos pendientes y luego escanea y carga cada uno de los documentos requeridos para este tipo de ingreso (Paz y salvo financiero y paz y salvo de biblioteca). El paz y salvo financiero puede consultarlos a trav\u00e9s de los siguientes canales:Conoce aqu\u00ed los canales de atenci\u00f3n que la Oficina de Cr\u00e9dito y Cartera ha dispuesto para la radicaci\u00f3n de estos casos.\n\n El paz y salvo de biblioteca solicitarlo al correo\n\n\u2022 Entrega de orden financiera\n\nLuego de adjuntar los documentos requeridos, a su correo llega la notificaci\u00f3n de admisi\u00f3n y los pasos para descargar la orden financiera. O ingrese\r\nhttp://portaldepagos.uac.edu.co/seleccionando la opci\u00f3n matr\u00edcula.\nEn la orden de matr\u00edcula esta especificada la entidad bancaria en la cual debes realizar el pago, si deseas hacer el pago de tu matr\u00edcula en l\u00ednea puedes hacerlo a trav\u00e9s de\r\nhttp://portaldepagos.uac.edu.co/seleccionando la opci\u00f3n de Pagos on line.\n\nSi el pago de la matr\u00edcula lo realizas a trav\u00e9s de entidades financieras o respaldado por alg\u00fan fondo de empleados o cajas de compensaci\u00f3n no olvides legalizar tu matr\u00edcula financiera ante cr\u00e9dito y cartera con los soportes del pago realizado. Conoce aqu\u00ed los canales de atenci\u00f3n que la Oficina de Cr\u00e9dito y Cartera ha dispuesto para la radicaci\u00f3n de estos casos. \n\nNOTA:Los pagos realizados en entidades financieras tardan 2 d\u00edas h\u00e1biles para reflejarse en el sistema y los pagos en l\u00ednea tardan 2 horas.\n\n"
@@ -41,9 +41,9 @@
             "context_set": ""
         },
         {
-            "tag": "proceso de inscripcion   admision aspirantes nacionales con estudios fuera del pais o extranjeros",
+            "tag": "proceso de inscripcion admision estudiante extranjero aspirante nacional con estudio fuera del pai",
             "patterns": [
-                "proceso de inscripcion   admision aspirantes nacionales con estudios fuera del pais o extranjeros"
+                "proceso de inscripcion admision estudiante extranjero aspirante nacional con estudio fuera del pai"
             ],
             "responses": [
                 "\u2022 Ingresa a inscripciones.uac.edu.co\n\nIngresa a\r\ninscripciones.uac.edu.co selecciona en tipo de vinculaci\u00f3n\r\nASPIRANTE NUEVO al hacer clic ser\u00e1s redireccionado al formulario de registro\r\nhttp://epica.uac.edu.co/ en donde deber\u00e1s diligenciar todos los campos que aqui son requeridos (campos marcados*).\r\nAseg\u00farate de tener acceso al correo que vas a registrar, ya que a ese correo te enviaremos un c\u00f3digo de verificaci\u00f3n que el sistema te solicitar\u00e1 digitar para la culminaci\u00f3n de tu registro y activaci\u00f3n de tu usuario.\nUna vez creado tu usuario, recuerda que la clave de ingreso es la misma que anotaste en el registro.\n\n\u2022 Ingresa a epica.uac.edu.co/inscripciones\n\nPAGO DE INSCRIPCI\u00d3N\nIngresa aepica.uac.edu.co/inscripcionescon los datos de tu cuenta los cuales te fueron notificados a tu correo, completa el registro ydescarga el volante de pago en la opci\u00f3n PAGAR, para que realices el pago en el banco asignado o puedes cancelar en l\u00ednea el valor de la inscripci\u00f3n. \r\n\nPOSTULACI\u00d3N AL PROGRAMA\nUna vez realizado y validado el pago de la inscripci\u00f3n (2 d\u00edas h\u00e1biles si el pago fue realizado a trav\u00e9s de un banco y 2 horas si el pago fue realizado en l\u00ednea) ingresa a: inscripciones.uac.edu.co diligencia los campos pendientes y luego escanea y carga cada uno de los documentos requeridos para poder as\u00ed culminar con esta primera etapa del proceso de vinculaci\u00f3n a nuestra universidad.\r\n\n\tDebes tener en cuenta los requisitos necesarios para \u00e9ste tipo de ingreso.\n\n\u2022 Proceso de admisi\u00f3n\n\nVERIFICACI\u00d3N DE DOCUMENTACI\u00d3N Y ADMISI\u00d3N\nUna vez verificada la documentaci\u00f3n cargada en el sistema \u00c9pica se le notificar\u00e1 v\u00eda correo electr\u00f3nico su admisi\u00f3n. Si en la verificaci\u00f3n se anota una observaci\u00f3n, el inscrito deber\u00e1 actualizar y adjuntar el documento requerido para su tipo de ingreso.\n\n\u2022 Entrega de orden financiera\n\nA su correo llega la notificaci\u00f3n de admisi\u00f3n y los pasos para descargar la orden financiera. O ingrese a: http://portaldepagos.uac.edu.co/ seleccionando la opci\u00f3n matr\u00edcula.\nEn la orden de matr\u00edcula esta especificada la entidad bancaria en la cual debes realizar el pago, si deseas hacer el pago de tu matr\u00edcula en l\u00ednea puedes hacerlo a tr\u00e1ves de\r\nhttp://portaldepagos.uac.edu.co\n/seleccionando la opci\u00f3n de Pagos on line.\n\nSi el pago de la matr\u00edcula lo realizas a trav\u00e9s de entidades financieras o respaldado por alg\u00fan fondo de empleados o cajas de compensaci\u00f3n no olvides legalizar tu matr\u00edcula financiera ante cr\u00e9dito y cartera con los soportes del pago realizado. Conoce aqu\u00ed los canales de atenci\u00f3n que la Oficina de Cr\u00e9dito y Cartera ha dispuesto para la radicaci\u00f3n de estos casos.\n\nNOTA: Los pagos realizados en entidades financieras tardan 2 d\u00edas h\u00e1biles para reflejarse en el sistema y los pagos en l\u00ednea tardan 2 horas.\n\n"
@@ -61,9 +61,9 @@
             "context_set": ""
         },
         {
-            "tag": "fecha transferencias  externas o internas  y reingresos pregrado 202101 2021 01",
+            "tag": "fecha transferencia externa o interna y reingreso pregrado 202101 2021 01",
             "patterns": [
-                "fecha transferencias  externas o internas  y reingresos pregrado 202101 2021 01"
+                "fecha transferencia externa o interna y reingreso pregrado 202101 2021 01"
             ],
             "responses": [
                 "Del 01 de octubre del 2020 hasta el 22 de febrero 2021"
@@ -71,9 +71,9 @@
             "context_set": ""
         },
         {
-            "tag": "fecha entrevistas ingresos 1 era vez pregrado 202101 2021 01",
+            "tag": "fecha entrevista ingreso 1 era vez pregrado 202101 2021 01",
             "patterns": [
-                "fecha entrevistas ingresos 1 era vez pregrado 202101 2021 01"
+                "fecha entrevista ingreso 1 era vez pregrado 202101 2021 01"
             ],
             "responses": [
                 "17 de octubre del 2020 hasta el 22 de febrero del 2021"
@@ -81,9 +81,9 @@
             "context_set": ""
         },
         {
-            "tag": "fecha matricula ordinaria con pronto pago  para estudiantes nuevos  reingreso y transferencia externa  pregrado 202101 2021 01",
+            "tag": "fecha matricula ordinaria con pronto pago para estudiante nuevo reingreso y transferencia externa pregrado 202101 2021 01",
             "patterns": [
-                "fecha matricula ordinaria con pronto pago  para estudiantes nuevos  reingreso y transferencia externa  pregrado 202101 2021 01"
+                "fecha matricula ordinaria con pronto pago para estudiante nuevo reingreso y transferencia externa pregrado 202101 2021 01"
             ],
             "responses": [
                 "30% descuento. Del 15 de octubre de 2020 al 22 de febrero de 2021."
@@ -91,9 +91,9 @@
             "context_set": ""
         },
         {
-            "tag": "fecha matricula ordinaria con pronto pago para estudiantes antiguos y transferencia interna  pregrado 202101 2021 01",
+            "tag": "fecha matricula ordinaria con pronto pago para estudiante antiguo y transferencia interna pregrado 202101 2021 01",
             "patterns": [
-                "fecha matricula ordinaria con pronto pago para estudiantes antiguos y transferencia interna  pregrado 202101 2021 01"
+                "fecha matricula ordinaria con pronto pago para estudiante antiguo y transferencia interna pregrado 202101 2021 01"
             ],
             "responses": [
                 "20% descuento. Del 15 de octubre al 13 de noviembre 2020. \r\n   15% descuento. Del 14 al 30 de noviembre 2020.  10% descuento. Del 1 al 15 de diciembre de 2020.  \r\n5% descuento. Del 16 de diciembre de 2020 al 22 de febrero del 2021."
@@ -101,9 +101,9 @@
             "context_set": ""
         },
         {
-            "tag": "fecha matricula plena ucil  todas  a excepcion de cursos especiales  pregrado 202101 2021 01",
+            "tag": "fecha matricula plena ucil toda a excepcion de curso especial pregrado 202101 2021 01",
             "patterns": [
-                "fecha matricula plena ucil  todas  a excepcion de cursos especiales  pregrado 202101 2021 01"
+                "fecha matricula plena ucil toda a excepcion de curso especial pregrado 202101 2021 01"
             ],
             "responses": [
                 "Del 17 de noviembre de 2020 hasta 1 de febrero 2021."
@@ -131,9 +131,9 @@
             "context_set": ""
         },
         {
-            "tag": "fecha ajustes de matricula pregrado 202101 2021 01",
+            "tag": "fecha ajuste de matricula pregrado 202101 2021 01",
             "patterns": [
-                "fecha ajustes de matricula pregrado 202101 2021 01"
+                "fecha ajuste de matricula pregrado 202101 2021 01"
             ],
             "responses": [
                 "Del 01 al 12 de febrero 2021"
@@ -161,9 +161,9 @@
             "context_set": ""
         },
         {
-            "tag": "fecha cancelacion de carga academica  retiro de cursos  pregrado 202101 2021 01",
+            "tag": "fecha cancelacion de carga academica retiro de curso pregrado 202101 2021 01",
             "patterns": [
-                "fecha cancelacion de carga academica  retiro de cursos  pregrado 202101 2021 01"
+                "fecha cancelacion de carga academica retiro de curso pregrado 202101 2021 01"
             ],
             "responses": [
                 "Hasta el 16 de abril 2021"
@@ -171,9 +171,9 @@
             "context_set": ""
         },
         {
-            "tag": "fecha congelamiento pregrado  sav  pregrado 202101 2021 01",
+            "tag": "fecha congelamiento pregrado sav pregrado 202101 2021 01",
             "patterns": [
-                "fecha congelamiento pregrado  sav  pregrado 202101 2021 01"
+                "fecha congelamiento pregrado sav pregrado 202101 2021 01"
             ],
             "responses": [
                 "Hasta el 19 de febrero 2021"
@@ -181,9 +181,9 @@
             "context_set": ""
         },
         {
-            "tag": "fecha devoluciones de matricula pregrado pregrado 202101 2021 01",
+            "tag": "fecha devolucion de matricula pregrado pregrado 202101 2021 01",
             "patterns": [
-                "fecha devoluciones de matricula pregrado pregrado 202101 2021 01"
+                "fecha devolucion de matricula pregrado pregrado 202101 2021 01"
             ],
             "responses": [
                 "Hasta el 29 de enero 2021"
@@ -201,9 +201,9 @@
             "context_set": ""
         },
         {
-            "tag": "fecha postulacion de docentes pregrado y posgrados tiempo completo pregrado 202101 2021 01",
+            "tag": "fecha postulacion de docente pregrado y posgrado tiempo completo pregrado 202101 2021 01",
             "patterns": [
-                "fecha postulacion de docentes pregrado y posgrados tiempo completo pregrado 202101 2021 01"
+                "fecha postulacion de docente pregrado y posgrado tiempo completo pregrado 202101 2021 01"
             ],
             "responses": [
                 "Del 4 al 11 de diciembre de 2020"
@@ -211,9 +211,9 @@
             "context_set": ""
         },
         {
-            "tag": "fecha postulacion de docentes catedraticos pregrado pregrado 202101 2021 01",
+            "tag": "fecha postulacion de docente catedratico pregrado pregrado 202101 2021 01",
             "patterns": [
-                "fecha postulacion de docentes catedraticos pregrado pregrado 202101 2021 01"
+                "fecha postulacion de docente catedratico pregrado pregrado 202101 2021 01"
             ],
             "responses": [
                 "12 al 18 de enero 2021"
@@ -221,9 +221,9 @@
             "context_set": ""
         },
         {
-            "tag": "fecha grabacion de plan de actividades docentes pad pregrado 202101 2021 01",
+            "tag": "fecha grabacion de plan de actividad docente pad pregrado 202101 2021 01",
             "patterns": [
-                "fecha grabacion de plan de actividades docentes pad pregrado 202101 2021 01"
+                "fecha grabacion de plan de actividad docente pad pregrado 202101 2021 01"
             ],
             "responses": [
                 "01 de febrero 2021"
@@ -231,9 +231,9 @@
             "context_set": ""
         },
         {
-            "tag": "fecha ingreso docentes de catedra pregrado 202101 2021 01",
+            "tag": "fecha ingreso docente de catedra pregrado 202101 2021 01",
             "patterns": [
-                "fecha ingreso docentes de catedra pregrado 202101 2021 01"
+                "fecha ingreso docente de catedra pregrado 202101 2021 01"
             ],
             "responses": [
                 "01 de febrero 2021"
@@ -241,9 +241,9 @@
             "context_set": ""
         },
         {
-            "tag": "fecha semana de induccion nuevos estudiantes pregrado 202101 2021 01",
+            "tag": "fecha semana de induccion nuevo estudiante pregrado 202101 2021 01",
             "patterns": [
-                "fecha semana de induccion nuevos estudiantes pregrado 202101 2021 01"
+                "fecha semana de induccion nuevo estudiante pregrado 202101 2021 01"
             ],
             "responses": [
                 "Del 25 al 29 de enero de 2021"
@@ -251,9 +251,9 @@
             "context_set": ""
         },
         {
-            "tag": "fecha iniciacion de clases para estudiantes antiguos pregrado 202101 2021 01",
+            "tag": "fecha iniciacion de clas para estudiante antiguo pregrado 202101 2021 01",
             "patterns": [
-                "fecha iniciacion de clases para estudiantes antiguos pregrado 202101 2021 01"
+                "fecha iniciacion de clas para estudiante antiguo pregrado 202101 2021 01"
             ],
             "responses": [
                 "01 de febrero 2021"
@@ -261,9 +261,9 @@
             "context_set": ""
         },
         {
-            "tag": "fecha carnavales pregrado 202101 2021 01",
+            "tag": "fecha carnaval pregrado 202101 2021 01",
             "patterns": [
-                "fecha carnavales pregrado 202101 2021 01"
+                "fecha carnaval pregrado 202101 2021 01"
             ],
             "responses": [
                 "13 y 14 de febrero 2021"
@@ -271,9 +271,9 @@
             "context_set": ""
         },
         {
-            "tag": "fecha primeros parciales  pregrado 202101 2021 01",
+            "tag": "fecha primero parcial pregrado 202101 2021 01",
             "patterns": [
-                "fecha primeros parciales  pregrado 202101 2021 01"
+                "fecha primero parcial pregrado 202101 2021 01"
             ],
             "responses": [
                 "Del 08 al 20 marzo de 2021"
@@ -281,9 +281,9 @@
             "context_set": ""
         },
         {
-            "tag": "fecha plazo para solicitar inclusion en 1a  ceremonia de grado pregrado 202101 2021 01",
+            "tag": "fecha plazo para solicitar inclusion en 1a ceremonia de grado pregrado 202101 2021 01",
             "patterns": [
-                "fecha plazo para solicitar inclusion en 1a  ceremonia de grado pregrado 202101 2021 01"
+                "fecha plazo para solicitar inclusion en 1a ceremonia de grado pregrado 202101 2021 01"
             ],
             "responses": [
                 "Del 15 al 29 de enero de 2021"
@@ -291,9 +291,9 @@
             "context_set": ""
         },
         {
-            "tag": "fecha 1deg ceremonia de grados pregrado 202101 2021 01",
+            "tag": "fecha 1 ceremonia de grado pregrado 202101 2021 01",
             "patterns": [
-                "fecha 1deg ceremonia de grados pregrado 202101 2021 01"
+                "fecha 1 ceremonia de grado pregrado 202101 2021 01"
             ],
             "responses": [
                 "26 de marzo de 2021"
@@ -301,9 +301,9 @@
             "context_set": ""
         },
         {
-            "tag": "fecha 1deg acompanamiento plan de accion anual pregrado 202101 2021 01",
+            "tag": "fecha 1 acompanamiento plan de accion anual pregrado 202101 2021 01",
             "patterns": [
-                "fecha 1deg acompanamiento plan de accion anual pregrado 202101 2021 01"
+                "fecha 1 acompanamiento plan de accion anual pregrado 202101 2021 01"
             ],
             "responses": [
                 "15 de marzo al 2 de abril de 2021"
@@ -321,9 +321,9 @@
             "context_set": ""
         },
         {
-            "tag": "fecha segundos parciales   pregrado 202101 2021 01",
+            "tag": "fecha segundo parcial pregrado 202101 2021 01",
             "patterns": [
-                "fecha segundos parciales   pregrado 202101 2021 01"
+                "fecha segundo parcial pregrado 202101 2021 01"
             ],
             "responses": [
                 "Del 19 de abril hasta el 01 de mayo 2021"
@@ -331,9 +331,9 @@
             "context_set": ""
         },
         {
-            "tag": "fecha ciclo de auditorias internas de calidad pregrado 202101 2021 01",
+            "tag": "fecha ciclo de auditoria interna de calidad pregrado 202101 2021 01",
             "patterns": [
-                "fecha ciclo de auditorias internas de calidad pregrado 202101 2021 01"
+                "fecha ciclo de auditoria interna de calidad pregrado 202101 2021 01"
             ],
             "responses": [
                 "Desde el 3 de mayo de 2021"
@@ -341,9 +341,9 @@
             "context_set": ""
         },
         {
-            "tag": "fecha plazo para solicitar inclusion en 2a  ceremonia de grado pregrado 202101 2021 01",
+            "tag": "fecha plazo para solicitar inclusion en 2a ceremonia de grado pregrado 202101 2021 01",
             "patterns": [
-                "fecha plazo para solicitar inclusion en 2a  ceremonia de grado pregrado 202101 2021 01"
+                "fecha plazo para solicitar inclusion en 2a ceremonia de grado pregrado 202101 2021 01"
             ],
             "responses": [
                 "Del 1 al 14 de mayo 2021"
@@ -351,9 +351,9 @@
             "context_set": ""
         },
         {
-            "tag": "fecha 2o ceremonia de grados pregrado 202101 2021 01",
+            "tag": "fecha 2o ceremonia de grado pregrado 202101 2021 01",
             "patterns": [
-                "fecha 2o ceremonia de grados pregrado 202101 2021 01"
+                "fecha 2o ceremonia de grado pregrado 202101 2021 01"
             ],
             "responses": [
                 "23 de julio 2021"
@@ -361,9 +361,9 @@
             "context_set": ""
         },
         {
-            "tag": "fecha homologacion de practicas pregrado 202101 2021 01",
+            "tag": "fecha homologacion de practica pregrado 202101 2021 01",
             "patterns": [
-                "fecha homologacion de practicas pregrado 202101 2021 01"
+                "fecha homologacion de practica pregrado 202101 2021 01"
             ],
             "responses": [
                 "Hasta el 15 de junio 2021"
@@ -371,9 +371,9 @@
             "context_set": ""
         },
         {
-            "tag": "fecha finalizacion de clases pregrado 202101 2021 01",
+            "tag": "fecha finalizacion de clas pregrado 202101 2021 01",
             "patterns": [
-                "fecha finalizacion de clases pregrado 202101 2021 01"
+                "fecha finalizacion de clas pregrado 202101 2021 01"
             ],
             "responses": [
                 "28 de mayo 2021"
@@ -381,9 +381,9 @@
             "context_set": ""
         },
         {
-            "tag": "fecha evaluaciones finales pregrado 202101 2021 01",
+            "tag": "fecha evaluacion final pregrado 202101 2021 01",
             "patterns": [
-                "fecha evaluaciones finales pregrado 202101 2021 01"
+                "fecha evaluacion final pregrado 202101 2021 01"
             ],
             "responses": [
                 "Del 31 de mayo al 12 de junio de 2021"
@@ -391,9 +391,9 @@
             "context_set": ""
         },
         {
-            "tag": "fecha evaluaciones finales diferidas pregrado 202101 2021 01",
+            "tag": "fecha evaluacion final diferida pregrado 202101 2021 01",
             "patterns": [
-                "fecha evaluaciones finales diferidas pregrado 202101 2021 01"
+                "fecha evaluacion final diferida pregrado 202101 2021 01"
             ],
             "responses": [
                 "Hasta el 17 de junio de 2021"
@@ -411,9 +411,9 @@
             "context_set": ""
         },
         {
-            "tag": "fecha habilitaciones con reporte de notas pregrado 202101 2021 01",
+            "tag": "fecha habilitacion con reporte de nota pregrado 202101 2021 01",
             "patterns": [
-                "fecha habilitaciones con reporte de notas pregrado 202101 2021 01"
+                "fecha habilitacion con reporte de nota pregrado 202101 2021 01"
             ],
             "responses": [
                 "Hasta el 29 de junio 2021"
@@ -441,9 +441,9 @@
             "context_set": ""
         },
         {
-            "tag": "fecha plazo maximo para reportar notas de evaluaciones diferidas finales pregrado 202101 2021 01",
+            "tag": "fecha plazo maximo para reportar nota de evaluacion diferida final pregrado 202101 2021 01",
             "patterns": [
-                "fecha plazo maximo para reportar notas de evaluaciones diferidas finales pregrado 202101 2021 01"
+                "fecha plazo maximo para reportar nota de evaluacion diferida final pregrado 202101 2021 01"
             ],
             "responses": [
                 "Hasta el 24 de junio 2021"
@@ -451,9 +451,9 @@
             "context_set": ""
         },
         {
-            "tag": "fecha plazo maximo para radicar solicitudes de auxilios educativos pregrado 202101 2021 01",
+            "tag": "fecha plazo maximo para radicar solicitud de auxilio educativo pregrado 202101 2021 01",
             "patterns": [
-                "fecha plazo maximo para radicar solicitudes de auxilios educativos pregrado 202101 2021 01"
+                "fecha plazo maximo para radicar solicitud de auxilio educativo pregrado 202101 2021 01"
             ],
             "responses": [
                 "11 de junio 2021"
@@ -461,9 +461,9 @@
             "context_set": ""
         },
         {
-            "tag": "fecha plazo maximo para radicar solicitudes de becas pregrado 202101 2021 01",
+            "tag": "fecha plazo maximo para radicar solicitud de beca pregrado 202101 2021 01",
             "patterns": [
-                "fecha plazo maximo para radicar solicitudes de becas pregrado 202101 2021 01"
+                "fecha plazo maximo para radicar solicitud de beca pregrado 202101 2021 01"
             ],
             "responses": [
                 "09 de junio 2021"
@@ -471,9 +471,9 @@
             "context_set": ""
         },
         {
-            "tag": "fecha 1deg seguimiento de plan de accion anual pregrado 202101 2021 01",
+            "tag": "fecha 1 seguimiento de plan de accion anual pregrado 202101 2021 01",
             "patterns": [
-                "fecha 1deg seguimiento de plan de accion anual pregrado 202101 2021 01"
+                "fecha 1 seguimiento de plan de accion anual pregrado 202101 2021 01"
             ],
             "responses": [
                 "4 al 17 de abril de 2021"
@@ -481,9 +481,9 @@
             "context_set": ""
         },
         {
-            "tag": "fecha publicacion de resultados comite de becas pregrado 202101 2021 01",
+            "tag": "fecha publicacion de resultado comite de beca pregrado 202101 2021 01",
             "patterns": [
-                "fecha publicacion de resultados comite de becas pregrado 202101 2021 01"
+                "fecha publicacion de resultado comite de beca pregrado 202101 2021 01"
             ],
             "responses": [
                 "23 de junio 2021"
@@ -491,9 +491,9 @@
             "context_set": ""
         },
         {
-            "tag": "fecha inscripciones ingreso por primera vez  transferencias  externas o internas  y reingresos pregrado 202102 2021 02",
+            "tag": "fecha inscripcion ingreso por primera vez transferencia externa o interna y reingreso pregrado 202102 2021 02",
             "patterns": [
-                "fecha inscripciones ingreso por primera vez  transferencias  externas o internas  y reingresos pregrado 202102 2021 02"
+                "fecha inscripcion ingreso por primera vez transferencia externa o interna y reingreso pregrado 202102 2021 02"
             ],
             "responses": [
                 "Del 07 de abril al 24 de julio 2021"
@@ -511,9 +511,9 @@
             "context_set": ""
         },
         {
-            "tag": "fecha matricula ordinaria con pronto pago para estudiantes  nuevos  reingreso  transferencia externa  pregrado 202102 2021 02",
+            "tag": "fecha matricula ordinaria con pronto pago para estudiante nuevo reingreso transferencia externa pregrado 202102 2021 02",
             "patterns": [
-                "fecha matricula ordinaria con pronto pago para estudiantes  nuevos  reingreso  transferencia externa  pregrado 202102 2021 02"
+                "fecha matricula ordinaria con pronto pago para estudiante nuevo reingreso transferencia externa pregrado 202102 2021 02"
             ],
             "responses": [
                 "30 % descuento. Del 20 de abril al 26 de julio 2021."
@@ -521,9 +521,9 @@
             "context_set": ""
         },
         {
-            "tag": "fecha matricula ordinaria con pronto pago para antiguos pregrado 202102 2021 02",
+            "tag": "fecha matricula ordinaria con pronto pago para antiguo pregrado 202102 2021 02",
             "patterns": [
-                "fecha matricula ordinaria con pronto pago para antiguos pregrado 202102 2021 02"
+                "fecha matricula ordinaria con pronto pago para antiguo pregrado 202102 2021 02"
             ],
             "responses": [
                 "20 % descuento. Del 27 de abril al 31 de mayo 2021.\r\n15% descuento. Del 01 al 15 de junio 2021. \r\n10% descuento. Del 16 al 30 de junio de 2021.\r\n        5% descuento. Del 01 al 15 de julio de 2021"
@@ -531,9 +531,9 @@
             "context_set": ""
         },
         {
-            "tag": "fecha matricula ordinaria para estudiantes antiguos pregrado 202102 2021 02",
+            "tag": "fecha matricula ordinaria para estudiante antiguo pregrado 202102 2021 02",
             "patterns": [
-                "fecha matricula ordinaria para estudiantes antiguos pregrado 202102 2021 02"
+                "fecha matricula ordinaria para estudiante antiguo pregrado 202102 2021 02"
             ],
             "responses": [
                 "Del 16 al 26 de julio de 2021"
@@ -541,9 +541,9 @@
             "context_set": ""
         },
         {
-            "tag": "fecha matricula plena ucil  todas  a excepcion de cursos especiales     pregrado 202102 2021 02",
+            "tag": "fecha matricula plena ucil toda a excepcion de curso especial pregrado 202102 2021 02",
             "patterns": [
-                "fecha matricula plena ucil  todas  a excepcion de cursos especiales     pregrado 202102 2021 02"
+                "fecha matricula plena ucil toda a excepcion de curso especial pregrado 202102 2021 02"
             ],
             "responses": [
                 "Del 18 de mayo hasta el 02 de agosto 2021"
@@ -571,9 +571,9 @@
             "context_set": ""
         },
         {
-            "tag": "fecha ajustes de matricula pregrado 202102 2021 02",
+            "tag": "fecha ajuste de matricula pregrado 202102 2021 02",
             "patterns": [
-                "fecha ajustes de matricula pregrado 202102 2021 02"
+                "fecha ajuste de matricula pregrado 202102 2021 02"
             ],
             "responses": [
                 "Del 9 al 20 de agosto 2021"
@@ -601,9 +601,9 @@
             "context_set": ""
         },
         {
-            "tag": "fecha cancelacion de carga academica  retiro de cursos  pregrado 202102 2021 02",
+            "tag": "fecha cancelacion de carga academica retiro de curso pregrado 202102 2021 02",
             "patterns": [
-                "fecha cancelacion de carga academica  retiro de cursos  pregrado 202102 2021 02"
+                "fecha cancelacion de carga academica retiro de curso pregrado 202102 2021 02"
             ],
             "responses": [
                 "Hasta el 15 de octubre 2021"
@@ -611,9 +611,9 @@
             "context_set": ""
         },
         {
-            "tag": "fecha congelamiento pregrado  sav  pregrado 202102 2021 02",
+            "tag": "fecha congelamiento pregrado sav pregrado 202102 2021 02",
             "patterns": [
-                "fecha congelamiento pregrado  sav  pregrado 202102 2021 02"
+                "fecha congelamiento pregrado sav pregrado 202102 2021 02"
             ],
             "responses": [
                 "Hasta el 27 de agosto 2021"
@@ -621,9 +621,9 @@
             "context_set": ""
         },
         {
-            "tag": "fecha devoluciones de matriculas pregrado 202102 2021 02",
+            "tag": "fecha devolucion de matricula pregrado 202102 2021 02",
             "patterns": [
-                "fecha devoluciones de matriculas pregrado 202102 2021 02"
+                "fecha devolucion de matricula pregrado 202102 2021 02"
             ],
             "responses": [
                 "Hasta el 6 de agosto 2021"
@@ -631,9 +631,9 @@
             "context_set": ""
         },
         {
-            "tag": "fecha postulacion de docentes pregrado y posgrados tiempo completo pregrado 202102 2021 02",
+            "tag": "fecha postulacion de docente pregrado y posgrado tiempo completo pregrado 202102 2021 02",
             "patterns": [
-                "fecha postulacion de docentes pregrado y posgrados tiempo completo pregrado 202102 2021 02"
+                "fecha postulacion de docente pregrado y posgrado tiempo completo pregrado 202102 2021 02"
             ],
             "responses": [
                 "12 al 19 de julio de 2021"
@@ -641,9 +641,9 @@
             "context_set": ""
         },
         {
-            "tag": "fecha postulacion de docentes catedratico pregrado pregrado 202102 2021 02",
+            "tag": "fecha postulacion de docente catedratico pregrado pregrado 202102 2021 02",
             "patterns": [
-                "fecha postulacion de docentes catedratico pregrado pregrado 202102 2021 02"
+                "fecha postulacion de docente catedratico pregrado pregrado 202102 2021 02"
             ],
             "responses": [
                 "26 al 30 de julio 2021"
@@ -651,9 +651,9 @@
             "context_set": ""
         },
         {
-            "tag": "fecha grabacion de plan de actividades docentes pad pregrado 202102 2021 02",
+            "tag": "fecha grabacion de plan de actividad docente pad pregrado 202102 2021 02",
             "patterns": [
-                "fecha grabacion de plan de actividades docentes pad pregrado 202102 2021 02"
+                "fecha grabacion de plan de actividad docente pad pregrado 202102 2021 02"
             ],
             "responses": [
                 "09 de agosto 2021"
@@ -661,9 +661,9 @@
             "context_set": ""
         },
         {
-            "tag": "fecha ingreso docentes de catedra pregrado 202102 2021 02",
+            "tag": "fecha ingreso docente de catedra pregrado 202102 2021 02",
             "patterns": [
-                "fecha ingreso docentes de catedra pregrado 202102 2021 02"
+                "fecha ingreso docente de catedra pregrado 202102 2021 02"
             ],
             "responses": [
                 "09 de agosto 2021"
@@ -671,9 +671,9 @@
             "context_set": ""
         },
         {
-            "tag": "fecha semana de induccion nuevos estudiantes pregrado 202102 2021 02",
+            "tag": "fecha semana de induccion nuevo estudiante pregrado 202102 2021 02",
             "patterns": [
-                "fecha semana de induccion nuevos estudiantes pregrado 202102 2021 02"
+                "fecha semana de induccion nuevo estudiante pregrado 202102 2021 02"
             ],
             "responses": [
                 "Del 02 al 06 de agosto de 2021"
@@ -681,9 +681,9 @@
             "context_set": ""
         },
         {
-            "tag": "fecha iniciacion de clases para estudiantes antiguos pregrado 202102 2021 02",
+            "tag": "fecha iniciacion de clas para estudiante antiguo pregrado 202102 2021 02",
             "patterns": [
-                "fecha iniciacion de clases para estudiantes antiguos pregrado 202102 2021 02"
+                "fecha iniciacion de clas para estudiante antiguo pregrado 202102 2021 02"
             ],
             "responses": [
                 "09 de agosto 2021"
@@ -691,9 +691,9 @@
             "context_set": ""
         },
         {
-            "tag": "fecha primeros parciales  pregrado 202102 2021 02",
+            "tag": "fecha primero parcial pregrado 202102 2021 02",
             "patterns": [
-                "fecha primeros parciales  pregrado 202102 2021 02"
+                "fecha primero parcial pregrado 202102 2021 02"
             ],
             "responses": [
                 "Del 13 al 25 septiembre de 2021"
@@ -701,9 +701,9 @@
             "context_set": ""
         },
         {
-            "tag": "fecha 2deg seguimiento al plan de accion anual pregrado 202102 2021 02",
+            "tag": "fecha 2 seguimiento al plan de accion anual pregrado 202102 2021 02",
             "patterns": [
-                "fecha 2deg seguimiento al plan de accion anual pregrado 202102 2021 02"
+                "fecha 2 seguimiento al plan de accion anual pregrado 202102 2021 02"
             ],
             "responses": [
                 "4 al 16 de julio de 2021"
@@ -711,9 +711,9 @@
             "context_set": ""
         },
         {
-            "tag": "fecha lineamientos de la planeacion academica 2022 pregrado 202102 2021 02",
+            "tag": "fecha lineamiento de la planeacion academica 2022 pregrado 202102 2021 02",
             "patterns": [
-                "fecha lineamientos de la planeacion academica 2022 pregrado 202102 2021 02"
+                "fecha lineamiento de la planeacion academica 2022 pregrado 202102 2021 02"
             ],
             "responses": [
                 "27 de septiembre al 15 de octubre de 2021"
@@ -721,9 +721,9 @@
             "context_set": ""
         },
         {
-            "tag": "fecha plazo para solicitar inclusion en 3a  ceremonia de grado pregrado 202102 2021 02",
+            "tag": "fecha plazo para solicitar inclusion en 3a ceremonia de grado pregrado 202102 2021 02",
             "patterns": [
-                "fecha plazo para solicitar inclusion en 3a  ceremonia de grado pregrado 202102 2021 02"
+                "fecha plazo para solicitar inclusion en 3a ceremonia de grado pregrado 202102 2021 02"
             ],
             "responses": [
                 "Del 30 de julio al 13 de agosto de 2021"
@@ -731,9 +731,9 @@
             "context_set": ""
         },
         {
-            "tag": "fecha 3deg ceremonia de grados pregrado 202102 2021 02",
+            "tag": "fecha 3 ceremonia de grado pregrado 202102 2021 02",
             "patterns": [
-                "fecha 3deg ceremonia de grados pregrado 202102 2021 02"
+                "fecha 3 ceremonia de grado pregrado 202102 2021 02"
             ],
             "responses": [
                 "15 de octubre de 2021"
@@ -751,9 +751,9 @@
             "context_set": ""
         },
         {
-            "tag": "fecha segundos parciales   pregrado 202102 2021 02",
+            "tag": "fecha segundo parcial pregrado 202102 2021 02",
             "patterns": [
-                "fecha segundos parciales   pregrado 202102 2021 02"
+                "fecha segundo parcial pregrado 202102 2021 02"
             ],
             "responses": [
                 "Del 19 al 30 de octubre 2021"
@@ -761,9 +761,9 @@
             "context_set": ""
         },
         {
-            "tag": "fecha plazo para solicitar inclusion en 4a  ceremonia de grado pregrado 202102 2021 02",
+            "tag": "fecha plazo para solicitar inclusion en 4a ceremonia de grado pregrado 202102 2021 02",
             "patterns": [
-                "fecha plazo para solicitar inclusion en 4a  ceremonia de grado pregrado 202102 2021 02"
+                "fecha plazo para solicitar inclusion en 4a ceremonia de grado pregrado 202102 2021 02"
             ],
             "responses": [
                 "Del 18 al 30 de octubre 2021"
@@ -771,9 +771,9 @@
             "context_set": ""
         },
         {
-            "tag": "fecha 4o ceremonia de grados pregrado 202102 2021 02",
+            "tag": "fecha 4o ceremonia de grado pregrado 202102 2021 02",
             "patterns": [
-                "fecha 4o ceremonia de grados pregrado 202102 2021 02"
+                "fecha 4o ceremonia de grado pregrado 202102 2021 02"
             ],
             "responses": [
                 "15 de diciembre 2021"
@@ -781,9 +781,9 @@
             "context_set": ""
         },
         {
-            "tag": "fecha homologacion de practicas pregrado 202102 2021 02",
+            "tag": "fecha homologacion de practica pregrado 202102 2021 02",
             "patterns": [
-                "fecha homologacion de practicas pregrado 202102 2021 02"
+                "fecha homologacion de practica pregrado 202102 2021 02"
             ],
             "responses": [
                 "Hasta el 2 de noviembre 2021"
@@ -791,9 +791,9 @@
             "context_set": ""
         },
         {
-            "tag": "fecha finalizacion de clases pregrado 202102 2021 02",
+            "tag": "fecha finalizacion de clas pregrado 202102 2021 02",
             "patterns": [
-                "fecha finalizacion de clases pregrado 202102 2021 02"
+                "fecha finalizacion de clas pregrado 202102 2021 02"
             ],
             "responses": [
                 "27 de noviembre 2021"
@@ -801,9 +801,9 @@
             "context_set": ""
         },
         {
-            "tag": "fecha evaluaciones finales pregrado 202102 2021 02",
+            "tag": "fecha evaluacion final pregrado 202102 2021 02",
             "patterns": [
-                "fecha evaluaciones finales pregrado 202102 2021 02"
+                "fecha evaluacion final pregrado 202102 2021 02"
             ],
             "responses": [
                 "Del 29 de noviembre al 11 de diciembre 2021"
@@ -811,9 +811,9 @@
             "context_set": ""
         },
         {
-            "tag": "fecha evaluaciones finales diferidas pregrado 202102 2021 02",
+            "tag": "fecha evaluacion final diferida pregrado 202102 2021 02",
             "patterns": [
-                "fecha evaluaciones finales diferidas pregrado 202102 2021 02"
+                "fecha evaluacion final diferida pregrado 202102 2021 02"
             ],
             "responses": [
                 "Hasta el 16 de diciembre 2021"
@@ -831,9 +831,9 @@
             "context_set": ""
         },
         {
-            "tag": "fecha habilitaciones con reporte de notas pregrado 202102 2021 02",
+            "tag": "fecha habilitacion con reporte de nota pregrado 202102 2021 02",
             "patterns": [
-                "fecha habilitaciones con reporte de notas pregrado 202102 2021 02"
+                "fecha habilitacion con reporte de nota pregrado 202102 2021 02"
             ],
             "responses": [
                 "Hasta el 17 de diciembre 2021"
@@ -861,9 +861,9 @@
             "context_set": ""
         },
         {
-            "tag": "fecha plazo maximo para reportar notas de evaluaciones diferidas finales pregrado 202102 2021 02",
+            "tag": "fecha plazo maximo para reportar nota de evaluacion diferida final pregrado 202102 2021 02",
             "patterns": [
-                "fecha plazo maximo para reportar notas de evaluaciones diferidas finales pregrado 202102 2021 02"
+                "fecha plazo maximo para reportar nota de evaluacion diferida final pregrado 202102 2021 02"
             ],
             "responses": [
                 "Hasta el 20 de diciembre 2021"
@@ -871,9 +871,9 @@
             "context_set": ""
         },
         {
-            "tag": "fecha plazo maximo para radicar solicitudes de auxilios educativos pregrado 202102 2021 02",
+            "tag": "fecha plazo maximo para radicar solicitud de auxilio educativo pregrado 202102 2021 02",
             "patterns": [
-                "fecha plazo maximo para radicar solicitudes de auxilios educativos pregrado 202102 2021 02"
+                "fecha plazo maximo para radicar solicitud de auxilio educativo pregrado 202102 2021 02"
             ],
             "responses": [
                 "03 de diciembre 2021"
@@ -881,9 +881,9 @@
             "context_set": ""
         },
         {
-            "tag": "fecha plazo maximo para radicar solicitudes de becas pregrado 202102 2021 02",
+            "tag": "fecha plazo maximo para radicar solicitud de beca pregrado 202102 2021 02",
             "patterns": [
-                "fecha plazo maximo para radicar solicitudes de becas pregrado 202102 2021 02"
+                "fecha plazo maximo para radicar solicitud de beca pregrado 202102 2021 02"
             ],
             "responses": [
                 "03 de diciembre 2021"
@@ -891,9 +891,9 @@
             "context_set": ""
         },
         {
-            "tag": "fecha publicacion de resultados comite de becas pregrado 202102 2021 02",
+            "tag": "fecha publicacion de resultado comite de beca pregrado 202102 2021 02",
             "patterns": [
-                "fecha publicacion de resultados comite de becas pregrado 202102 2021 02"
+                "fecha publicacion de resultado comite de beca pregrado 202102 2021 02"
             ],
             "responses": [
                 "22 de diciembre 2021"
@@ -901,9 +901,9 @@
             "context_set": ""
         },
         {
-            "tag": "fecha 3deg seguimiento del plan de accion anual pregrado 202102 2021 02",
+            "tag": "fecha 3 seguimiento del plan de accion anual pregrado 202102 2021 02",
             "patterns": [
-                "fecha 3deg seguimiento del plan de accion anual pregrado 202102 2021 02"
+                "fecha 3 seguimiento del plan de accion anual pregrado 202102 2021 02"
             ],
             "responses": [
                 "4 al 15 de octubre de 2021"
@@ -911,9 +911,9 @@
             "context_set": ""
         },
         {
-            "tag": "fecha 4deg seguimiento final del plan de accion anual pregrado 202102 2021 02",
+            "tag": "fecha 4 seguimiento final del plan de accion anual pregrado 202102 2021 02",
             "patterns": [
-                "fecha 4deg seguimiento final del plan de accion anual pregrado 202102 2021 02"
+                "fecha 4 seguimiento final del plan de accion anual pregrado 202102 2021 02"
             ],
             "responses": [
                 "1 al 10 de diciembre de 2021"
@@ -921,9 +921,9 @@
             "context_set": ""
         },
         {
-            "tag": "fecha inscripciones ingreso por primera vez transferencias  externas o internas  y reingresos posgrado 202101 2021 01",
+            "tag": "fecha inscripcion ingreso por primera vez transferencia externa o interna y reingreso posgrado 202101 2021 01",
             "patterns": [
-                "fecha inscripciones ingreso por primera vez transferencias  externas o internas  y reingresos posgrado 202101 2021 01"
+                "fecha inscripcion ingreso por primera vez transferencia externa o interna y reingreso posgrado 202101 2021 01"
             ],
             "responses": [
                 "Del 01 de octubre del 2020 Hasta el 22 de febrero 2021"
@@ -931,9 +931,9 @@
             "context_set": ""
         },
         {
-            "tag": "fecha entrevistas ingresos 1 era vez posgrado 202101 2021 01",
+            "tag": "fecha entrevista ingreso 1 era vez posgrado 202101 2021 01",
             "patterns": [
-                "fecha entrevistas ingresos 1 era vez posgrado 202101 2021 01"
+                "fecha entrevista ingreso 1 era vez posgrado 202101 2021 01"
             ],
             "responses": [
                 "Del 3 noviembre del 2020 hasta 22 de febrero del 2021"
@@ -941,9 +941,9 @@
             "context_set": ""
         },
         {
-            "tag": "fecha matricula ordinaria pronto pago estudiantes nuevos y antiguos posgrado 202101 2021 01",
+            "tag": "fecha matricula ordinaria pronto pago estudiante nuevo y antiguo posgrado 202101 2021 01",
             "patterns": [
-                "fecha matricula ordinaria pronto pago estudiantes nuevos y antiguos posgrado 202101 2021 01"
+                "fecha matricula ordinaria pronto pago estudiante nuevo y antiguo posgrado 202101 2021 01"
             ],
             "responses": [
                 "20% descuento. Del 01 de octubre al 13 de noviembre del 2020 15% descuento. Del 14 al 30 de noviembre de 2020 \r\n10% descuento. Del 01 de diciembre 2020 al 22 de febrero del 2021"
@@ -951,9 +951,9 @@
             "context_set": ""
         },
         {
-            "tag": "fecha matricula ordinaria estudiantes nuevos  transferencia interna y externa  reingreso  posgrado 202101 2021 01",
+            "tag": "fecha matricula ordinaria estudiante nuevo transferencia interna y externa reingreso posgrado 202101 2021 01",
             "patterns": [
-                "fecha matricula ordinaria estudiantes nuevos  transferencia interna y externa  reingreso  posgrado 202101 2021 01"
+                "fecha matricula ordinaria estudiante nuevo transferencia interna y externa reingreso posgrado 202101 2021 01"
             ],
             "responses": [
                 "Del 16 de enero al 22 de febrero 2021"
@@ -961,9 +961,9 @@
             "context_set": ""
         },
         {
-            "tag": "fecha matricula ordinaria estudiantes antiguos posgrado 202101 2021 01",
+            "tag": "fecha matricula ordinaria estudiante antiguo posgrado 202101 2021 01",
             "patterns": [
-                "fecha matricula ordinaria estudiantes antiguos posgrado 202101 2021 01"
+                "fecha matricula ordinaria estudiante antiguo posgrado 202101 2021 01"
             ],
             "responses": [
                 "Del 21 de diciembre de 2020 al 22 de febrero 2021"
@@ -971,9 +971,9 @@
             "context_set": ""
         },
         {
-            "tag": "fecha matricula extraordinaria estudiantes antiguos posgrado 202101 2021 01",
+            "tag": "fecha matricula extraordinaria estudiante antiguo posgrado 202101 2021 01",
             "patterns": [
-                "fecha matricula extraordinaria estudiantes antiguos posgrado 202101 2021 01"
+                "fecha matricula extraordinaria estudiante antiguo posgrado 202101 2021 01"
             ],
             "responses": [
                 "De 23 enero al 22 de febrero 2021"
@@ -991,9 +991,9 @@
             "context_set": ""
         },
         {
-            "tag": "fecha iniciacion de clases estudiantes nuevos y antiguos posgrado 202101 2021 01",
+            "tag": "fecha iniciacion de clas estudiante nuevo y antiguo posgrado 202101 2021 01",
             "patterns": [
-                "fecha iniciacion de clases estudiantes nuevos y antiguos posgrado 202101 2021 01"
+                "fecha iniciacion de clas estudiante nuevo y antiguo posgrado 202101 2021 01"
             ],
             "responses": [
                 "26 de febrero 2021"
@@ -1051,9 +1051,9 @@
             "context_set": ""
         },
         {
-            "tag": "fecha finalizacion de clases posgrado 202101 2021 01",
+            "tag": "fecha finalizacion de clas posgrado 202101 2021 01",
             "patterns": [
-                "fecha finalizacion de clases posgrado 202101 2021 01"
+                "fecha finalizacion de clas posgrado 202101 2021 01"
             ],
             "responses": [
                 "03 de julio de 2021"
@@ -1061,69 +1061,69 @@
             "context_set": ""
         },
         {
-            "tag": "fecha inscripciones ingreso por primera vez transferencias  externas o internas  y reingresos posgrado 202101 2021 01",
+            "tag": "fecha inscripcion ingreso por primera vez transferencia externa o interna y reingreso posgrado 202102 2021 02",
             "patterns": [
-                "fecha inscripciones ingreso por primera vez transferencias  externas o internas  y reingresos posgrado 202101 2021 01"
+                "fecha inscripcion ingreso por primera vez transferencia externa o interna y reingreso posgrado 202102 2021 02"
             ],
             "responses": [
-                "Del 01 de octubre del 2020 Hasta el 22 de febrero 2021"
+                "Del 12 de abril hasta 13 de agosto 2021"
             ],
             "context_set": ""
         },
         {
-            "tag": "fecha entrevistas ingresos 1 era vez posgrado 202101 2021 01",
+            "tag": "fecha entrevista ingreso 1 era vez posgrado 202102 2021 02",
             "patterns": [
-                "fecha entrevistas ingresos 1 era vez posgrado 202101 2021 01"
+                "fecha entrevista ingreso 1 era vez posgrado 202102 2021 02"
             ],
             "responses": [
-                "Del 3 noviembre del 2020 hasta 22 de febrero del 2021"
+                "Del 3 mayo hasta 13 de agosto del 2021"
             ],
             "context_set": ""
         },
         {
-            "tag": "fecha matricula ordinaria pronto pago estudiantes nuevos y antiguos posgrado 202101 2021 01",
+            "tag": "fecha matricula ordinaria pronto pago estudiante nuevo y antiguo posgrado 202102 2021 02",
             "patterns": [
-                "fecha matricula ordinaria pronto pago estudiantes nuevos y antiguos posgrado 202101 2021 01"
+                "fecha matricula ordinaria pronto pago estudiante nuevo y antiguo posgrado 202102 2021 02"
             ],
             "responses": [
-                "20% descuento. Del 01 de octubre al 13 de noviembre del 2020 15% descuento. Del 14 al 30 de noviembre de 2020 \r\n10% descuento. Del 01 de diciembre 2020 al 22 de febrero del 2021"
+                "20 % descuento. Del 24 de abril al 31 de mayo 2021. \r\n        15% descuento. Del 01 al 15 de junio 2021. \r\n        10% descuento. Del 16 al 30 de junio de 2021."
             ],
             "context_set": ""
         },
         {
-            "tag": "fecha matricula ordinaria estudiantes nuevos  transferencia interna y externa  reingreso  posgrado 202101 2021 01",
+            "tag": "fecha matricula ordinaria estudiante nuevo transferencia interna y externa reingreso posgrado 202102 2021 02",
             "patterns": [
-                "fecha matricula ordinaria estudiantes nuevos  transferencia interna y externa  reingreso  posgrado 202101 2021 01"
+                "fecha matricula ordinaria estudiante nuevo transferencia interna y externa reingreso posgrado 202102 2021 02"
             ],
             "responses": [
-                "Del 16 de enero al 22 de febrero 2021"
+                "Del 01 de julio hasta el 12 de agosto de 2021"
             ],
             "context_set": ""
         },
         {
-            "tag": "fecha matricula ordinaria estudiantes antiguos posgrado 202101 2021 01",
+            "tag": "fecha matricula ordinaria estudiante antiguo posgrado 202102 2021 02",
             "patterns": [
-                "fecha matricula ordinaria estudiantes antiguos posgrado 202101 2021 01"
+                "fecha matricula ordinaria estudiante antiguo posgrado 202102 2021 02"
             ],
             "responses": [
-                "Del 21 de diciembre de 2020 al 22 de febrero 2021"
+                "Del 01 de julio hasta el 31 de julio 2021"
             ],
             "context_set": ""
         },
         {
-            "tag": "fecha matricula extraordinaria estudiantes antiguos posgrado 202101 2021 01",
+            "tag": "fecha matricula extraordinaria estudiante antiguo posgrado 202102 2021 02",
             "patterns": [
-                "fecha matricula extraordinaria estudiantes antiguos posgrado 202101 2021 01"
+                "fecha matricula extraordinaria estudiante antiguo posgrado 202102 2021 02"
             ],
             "responses": [
-                "De 23 enero al 22 de febrero 2021"
+                "Del 01 de agosto hasta 12 agosto 2021"
             ],
             "context_set": ""
         },
         {
-            "tag": "fecha matricula academica posgrado 202101 2021 01",
+            "tag": "fecha matricula academica posgrado 202102 2021 02",
             "patterns": [
-                "fecha matricula academica posgrado 202101 2021 01"
+                "fecha matricula academica posgrado 202102 2021 02"
             ],
             "responses": [
                 "Fechas de ejecuci\u00f3n"
@@ -1131,79 +1131,79 @@
             "context_set": ""
         },
         {
-            "tag": "fecha iniciacion de clases estudiantes nuevos y antiguos posgrado 202101 2021 01",
+            "tag": "fecha iniciacion de clas estudiante nuevo y antiguo posgrado 202102 2021 02",
             "patterns": [
-                "fecha iniciacion de clases estudiantes nuevos y antiguos posgrado 202101 2021 01"
+                "fecha iniciacion de clas estudiante nuevo y antiguo posgrado 202102 2021 02"
             ],
             "responses": [
-                "26 de febrero 2021"
+                "13 de agosto 2021"
             ],
             "context_set": ""
         },
         {
-            "tag": "fecha examen de validacion posgrado 202101 2021 01",
+            "tag": "fecha finalizacion de clas posgrado 202102 2021 02",
             "patterns": [
-                "fecha examen de validacion posgrado 202101 2021 01"
+                "fecha finalizacion de clas posgrado 202102 2021 02"
             ],
             "responses": [
-                "Del 08 al 12 de febrero 2021"
+                "11 de diciembre 2021"
             ],
             "context_set": ""
         },
         {
-            "tag": "fecha aplicacion del examen de validacion posgrado 202101 2021 01",
+            "tag": "fecha examen de validacion posgrado 202102 2021 02",
             "patterns": [
-                "fecha aplicacion del examen de validacion posgrado 202101 2021 01"
+                "fecha examen de validacion posgrado 202102 2021 02"
             ],
             "responses": [
-                "Del 22 al 26 de febrero 2021"
+                "26 al 30 de julio 2021"
             ],
             "context_set": ""
         },
         {
-            "tag": "fecha carga adicional posgrado 202101 2021 01",
+            "tag": "fecha aplicacion del examen de validacion posgrado 202102 2021 02",
             "patterns": [
-                "fecha carga adicional posgrado 202101 2021 01"
+                "fecha aplicacion del examen de validacion posgrado 202102 2021 02"
             ],
             "responses": [
-                "Del 01 al 12 de marzo 2021"
+                "Del 9 al 13 de agosto 2021"
             ],
             "context_set": ""
         },
         {
-            "tag": "fecha congelamiento posgrado posgrado 202101 2021 01",
+            "tag": "fecha carga adicional posgrado 202102 2021 02",
             "patterns": [
-                "fecha congelamiento posgrado posgrado 202101 2021 01"
+                "fecha carga adicional posgrado 202102 2021 02"
             ],
             "responses": [
-                "Hasta el 19 de marzo 2021"
+                "Hasta el 27 de agosto 2021"
             ],
             "context_set": ""
         },
         {
-            "tag": "fecha devolucion de matricula posgrado posgrado 202101 2021 01",
+            "tag": "fecha congelamiento posgrado posgrado 202102 2021 02",
             "patterns": [
-                "fecha devolucion de matricula posgrado posgrado 202101 2021 01"
+                "fecha congelamiento posgrado posgrado 202102 2021 02"
             ],
             "responses": [
-                "Hasta el 25 de febrero 2021"
+                "Hasta el 03 de septiembre 2021"
             ],
             "context_set": ""
         },
         {
-            "tag": "fecha finalizacion de clases posgrado 202101 2021 01",
+            "tag": "fecha devolucion de matricula posgrado posgrado 202102 2021 02",
             "patterns": [
-                "fecha finalizacion de clases posgrado 202101 2021 01"
+                "fecha devolucion de matricula posgrado posgrado 202102 2021 02"
             ],
             "responses": [
-                "03 de julio de 2021"
+                "Hasta el 12 de agosto 2021"
             ],
             "context_set": ""
         },
         {
-            "tag": "procedimiento certificados academicos",
+            "tag": "procedimiento certificado academico",
             "patterns": [
-                "procedimiento certificados academicos"
+                "procedimiento certificado academico"
             ],
             "responses": [
                 "\u2022 Como radicar tu solicitud\n\nEl estudiante o egresado debe radicar la solicitud a trav\u00e9s del Servicio de Atenci\u00f3n Virtual-SAV, seleccionando la opci\u00f3n de certificados y adjuntando la orden financiera debidamente cancelada, la cual puede ser descargada del portal de pagos de la Universidad portaldepagos.uac.edu.co. As\u00ed mismo debe especificar el tipo de certificado que requiere y en el caso que lo amerite anexar informaci\u00f3n adicional de lo que necesita le sea certificado.\n\n\u2022 Debes tener en cuenta que:\n\nEl tiempo de entrega m\u00e1ximo para las certificaciones es de tres (3) d\u00edas h\u00e1biles siguientes excepto certificaciones adicionales o con algunas especificaciones y contenidos program\u00e1ticos. - Las certificaciones acad\u00e9micas de estudiantes que culminaron en a\u00f1o interior a 1990 el tiempo de entrega es de m\u00e1ximo ocho (8) d\u00edas h\u00e1biles.\nSi las solicitudes de certificaciones son realizadas por terceras personas debe mediar autorizaci\u00f3n notariada del estudiante o de la persona autorizada por \u00e9l y registrada en el sistema de la Universidad al momento del proceso de admisi\u00f3n y/o actualizaci\u00f3n de dato.\n\n\u2022 Elaboraci\u00f3n del Certificado\n\nEl Auxiliar Administrativo de la secretar\u00eda general procesa la solicitud del estudiante en la plataforma \u00e9pica.\n\n\u2022 Descargar Certificado\n\nEl estudiante debe ingresar a la plataforma \u00e9pica usando sus credenciales para su autenticaci\u00f3n (opci\u00f3n certificados \u2013 Imprimir certificado). El estudiante tiene una vigencia de 15 d\u00edas a partir de la fecha de elaboraci\u00f3n para descargar el certificado.\n\n\u2022 Validaci\u00f3n del certificado\n\nEl interesado puede probar la validez del certificado a trav\u00e9s del sitio web: https://www.uac.edu.co/certificado/ usando el n\u00famero del certificado ubicado en la parte superior del mismo. Se tiene una vigencia de 30 (Treinta) d\u00edas a partir de la fecha de expedici\u00f3n de este.\n\n\u2022 Informar sobre alg\u00fan error\n\nEn el caso que exista alg\u00fan error, el solicitante podr\u00e1 realizar dentro de los 15 d\u00edas calendario siguientes a la generaci\u00f3n del certificado, una solicitud a trav\u00e9s del Servicio de Atenci\u00f3n Virtual - SAV, seleccionado la opci\u00f3n de correcci\u00f3n de certificados, en el cual debe indicar los ajustes y en caso de ser necesario debe adjuntar los soportes.\n\n"
@@ -1251,9 +1251,9 @@
             "context_set": ""
         },
         {
-            "tag": "programas de maestria",
+            "tag": "programa de maestria",
             "patterns": [
-                "programas de maestria"
+                "programa de maestria"
             ],
             "responses": [
                 "\u2022 Maestr\u00eda en Ingenier\u00eda Electr\u00f3nica\n\u2022 Maestr\u00eda en Ingenier\u00eda Mec\u00e1nica\n\u2022 Maestr\u00eda en Log\u00edstica Integral\n\u2022 Maestr\u00eda en Sistema de Gesti\u00f3n\n\u2022 Maestr\u00eda en Sistema de Gesti\u00f3n extensi\u00f3n Cartagena\n\u2022 Maestr\u00eda en Administraci\u00f3n - MBA\n\u2022 Maestr\u00eda en Mercadeo\n\u2022 Maestr\u00eda en Educaci\u00f3n\n"
@@ -1261,9 +1261,9 @@
             "context_set": ""
         },
         {
-            "tag": "programas de pregrado",
+            "tag": "programa de pregrado",
             "patterns": [
-                "programas de pregrado"
+                "programa de pregrado"
             ],
             "responses": [
                 "\u2022 Administraci\u00f3n de Empresas\n\u2022 Administraci\u00f3n de Empresas Tur\u00edsticas y Hoteleras\n\u2022 Administraci\u00f3n Mar\u00edtima y Fluvial\n\u2022 Contadur\u00eda P\u00fablica\n\u2022 Negocios y Finanzas Internacionales\n\u2022 Tecnolog\u00eda en Gesti\u00f3n Portuaria\n\u2022 T\u00e9cnica Profesional en Operaciones Portuarias\n\u2022 Arquitectura\n\u2022 Dise\u00f1o Gr\u00e1fico\n\u2022 Dise\u00f1o de Espacios\n\u2022 Dise\u00f1o de Modas\n\u2022 Comunicaci\u00f3n Social - Periodismo\n\u2022 Deporte y Cultura F\u00edsica\n\u2022 Comunicaci\u00f3n Audiovisual (Antes Direcci\u00f3n y Producci\u00f3n de Radio y Televisi\u00f3n)\n\u2022 Psicolog\u00eda\n\u2022 Ingenier\u00eda Sistemas\n\u2022 Ingenier\u00eda Electr\u00f3nica y Telecomunicaciones\n\u2022 Ingenier\u00eda Industrial\n\u2022 Ingenier\u00eda Mec\u00e1nica\n\u2022 Ingenier\u00eda Mecatr\u00f3nica\n\u2022 Ciencias Pol\u00edticas\n\u2022 Derecho\n"
@@ -1271,9 +1271,9 @@
             "context_set": ""
         },
         {
-            "tag": "programas de especializaciones",
+            "tag": "programa de especializacion",
             "patterns": [
-                "programas de especializaciones"
+                "programa de especializacion"
             ],
             "responses": [
                 "\u2022 Especializaci\u00f3n en Alta Gerencia\n\u2022 Especializaci\u00f3n en Finanzas\n\u2022 Especializaci\u00f3n en Gesti\u00f3n Financiera P\u00fablica\n\u2022 Especializaci\u00f3n en Gerencia del Talento Humano\n\u2022 Especializaci\u00f3n en Gerencia en Mercadeo\n\u2022 Especializaci\u00f3n en Revisor\u00eda Fiscal y Auditor\u00eda Externa\n\u2022 Especializaci\u00f3n en Tributaci\u00f3n\n\u2022 Especializaci\u00f3n en Gerencia de la Comunicaci\u00f3n Organizacional\n\u2022 Especializaci\u00f3n en Gerencia de la Comunicaci\u00f3n para el Desarrollo Social\n\u2022 Especializaci\u00f3n en Gerencia de Producci\u00f3n y Operaciones Log\u00edsticas\n"
@@ -1281,9 +1281,9 @@
             "context_set": ""
         },
         {
-            "tag": "valor de matricula arquitectura   snies 1466",
+            "tag": "valor de matricula arquitectura",
             "patterns": [
-                "valor de matricula arquitectura   snies 1466"
+                "valor de matricula arquitectura"
             ],
             "responses": [
                 "ESTUDIANTES ANTIGUOS: $5.015.700\nESTUDIANTES NUEVOS: $5.061.401\nPERIODOS: 10\nCR\u00c9DITOS ACAD\u00c9MICOS: 160\n"
@@ -1291,9 +1291,9 @@
             "context_set": ""
         },
         {
-            "tag": "valor de matricula diseno grafico   snies 53670",
+            "tag": "valor de matricula diseno grafico",
             "patterns": [
-                "valor de matricula diseno grafico   snies 53670"
+                "valor de matricula diseno grafico"
             ],
             "responses": [
                 "ESTUDIANTES ANTIGUOS: $4.184.869\nESTUDIANTES NUEVOS: $4.223.030\nPERIODOS: 8\nCR\u00c9DITOS ACAD\u00c9MICOS: 144\n"
@@ -1301,9 +1301,9 @@
             "context_set": ""
         },
         {
-            "tag": "valor de matricula diseno de espacios   snies 101903",
+            "tag": "valor de matricula diseno de espacio",
             "patterns": [
-                "valor de matricula diseno de espacios   snies 101903"
+                "valor de matricula diseno de espacio"
             ],
             "responses": [
                 "ESTUDIANTES ANTIGUOS: $4.184.869\nESTUDIANTES NUEVOS: $4.223.030\nPERIODOS: 8\nCR\u00c9DITOS ACAD\u00c9MICOS: 144\n"
@@ -1311,9 +1311,9 @@
             "context_set": ""
         },
         {
-            "tag": "valor de matricula diseno de modas   snies 101904",
+            "tag": "valor de matricula diseno de moda",
             "patterns": [
-                "valor de matricula diseno de modas   snies 101904"
+                "valor de matricula diseno de moda"
             ],
             "responses": [
                 "ESTUDIANTES ANTIGUOS: $4.184.869\nESTUDIANTES NUEVOS: $4.223.030\nPERIODOS: 8\nCR\u00c9DITOS ACAD\u00c9MICOS: 144\n"
@@ -1321,9 +1321,9 @@
             "context_set": ""
         },
         {
-            "tag": "valor de matricula ingenieria de sistemas   snies 2801",
+            "tag": "valor de matricula ingenieria de sistema",
             "patterns": [
-                "valor de matricula ingenieria de sistemas   snies 2801"
+                "valor de matricula ingenieria de sistema"
             ],
             "responses": [
                 "ESTUDIANTES ANTIGUOS: $5.082.446\nESTUDIANTES NUEVOS: $5.082.446\nPERIODOS: 9\nCR\u00c9DITOS ACAD\u00c9MICOS: 150\n"
@@ -1331,9 +1331,9 @@
             "context_set": ""
         },
         {
-            "tag": "valor de matricula ingenieria electronica y telecomunicaciones   snies 3695",
+            "tag": "valor de matricula ingenieria electronica y telecomunicacion",
             "patterns": [
-                "valor de matricula ingenieria electronica y telecomunicaciones   snies 3695"
+                "valor de matricula ingenieria electronica y telecomunicacion"
             ],
             "responses": [
                 "ESTUDIANTES ANTIGUOS: $5.151.003\nESTUDIANTES NUEVOS: $5.151.003\nPERIODOS: 9\nCR\u00c9DITOS ACAD\u00c9MICOS: 156\n"
@@ -1341,9 +1341,9 @@
             "context_set": ""
         },
         {
-            "tag": "valor de matricula ingenieria industrial   snies 2850",
+            "tag": "valor de matricula ingenieria industrial",
             "patterns": [
-                "valor de matricula ingenieria industrial   snies 2850"
+                "valor de matricula ingenieria industrial"
             ],
             "responses": [
                 "ESTUDIANTES ANTIGUOS: $5.322.439\nESTUDIANTES NUEVOS: $5.322.439\nPERIODOS: 9\nCR\u00c9DITOS ACAD\u00c9MICOS: 164\n"
@@ -1351,9 +1351,9 @@
             "context_set": ""
         },
         {
-            "tag": "valor de matricula ingenieria de materiales",
+            "tag": "valor de matricula ingenieria de material",
             "patterns": [
-                "valor de matricula ingenieria de materiales"
+                "valor de matricula ingenieria de material"
             ],
             "responses": [
                 "ESTUDIANTES ANTIGUOS: $4.200.813\nESTUDIANTES NUEVOS: \nPERIODOS: \nCR\u00c9DITOS ACAD\u00c9MICOS: \n"
@@ -1361,9 +1361,9 @@
             "context_set": ""
         },
         {
-            "tag": "valor de matricula ingenieria mecanica   snies 7247",
+            "tag": "valor de matricula ingenieria mecanica",
             "patterns": [
-                "valor de matricula ingenieria mecanica   snies 7247"
+                "valor de matricula ingenieria mecanica"
             ],
             "responses": [
                 "ESTUDIANTES ANTIGUOS: $4.728.947\nESTUDIANTES NUEVOS: $4.771.357\nPERIODOS: 9\nCR\u00c9DITOS ACAD\u00c9MICOS: 160\n"
@@ -1371,9 +1371,9 @@
             "context_set": ""
         },
         {
-            "tag": "valor de matricula ingenieria mecatronica   snies 53691",
+            "tag": "valor de matricula ingenieria mecatronica",
             "patterns": [
-                "valor de matricula ingenieria mecatronica   snies 53691"
+                "valor de matricula ingenieria mecatronica"
             ],
             "responses": [
                 "ESTUDIANTES ANTIGUOS: $5.322.439\nESTUDIANTES NUEVOS: $5.322.439\nPERIODOS: 9\nCR\u00c9DITOS ACAD\u00c9MICOS: 166\n"
@@ -1381,9 +1381,9 @@
             "context_set": ""
         },
         {
-            "tag": "valor de matricula tecnologia en analisis y diseno de sistemas y computacion   snies 5303",
+            "tag": "valor de matricula tecnologia en analisis y diseno de sistema y computacion",
             "patterns": [
-                "valor de matricula tecnologia en analisis y diseno de sistemas y computacion   snies 5303"
+                "valor de matricula tecnologia en analisis y diseno de sistema y computacion"
             ],
             "responses": [
                 "ESTUDIANTES ANTIGUOS: $2.365.369\nESTUDIANTES NUEVOS: \nPERIODOS: 6\nCR\u00c9DITOS ACAD\u00c9MICOS: 95\n"
@@ -1391,9 +1391,9 @@
             "context_set": ""
         },
         {
-            "tag": "valor de matricula administracion de empresas   snies 12711",
+            "tag": "valor de matricula administracion de empresa",
             "patterns": [
-                "valor de matricula administracion de empresas   snies 12711"
+                "valor de matricula administracion de empresa"
             ],
             "responses": [
                 "ESTUDIANTES ANTIGUOS: $4.226.857\nESTUDIANTES NUEVOS: $4.226.857\nPERIODOS: 9\nCR\u00c9DITOS ACAD\u00c9MICOS: 159\n"
@@ -1401,9 +1401,9 @@
             "context_set": ""
         },
         {
-            "tag": "valor de matricula administracion de empresas turisticas y hoteleras   snies 1464",
+            "tag": "valor de matricula administracion de empresa turistica y hotelera",
             "patterns": [
-                "valor de matricula administracion de empresas turisticas y hoteleras   snies 1464"
+                "valor de matricula administracion de empresa turistica y hotelera"
             ],
             "responses": [
                 "ESTUDIANTES ANTIGUOS: $3.948.065\nESTUDIANTES NUEVOS: $3.983.994\nPERIODOS: 9\nCR\u00c9DITOS ACAD\u00c9MICOS: 160\n"
@@ -1411,9 +1411,9 @@
             "context_set": ""
         },
         {
-            "tag": "valor de matricula administracion maritima y fluvial   snies 54283",
+            "tag": "valor de matricula administracion maritima y fluvial",
             "patterns": [
-                "valor de matricula administracion maritima y fluvial   snies 54283"
+                "valor de matricula administracion maritima y fluvial"
             ],
             "responses": [
                 "ESTUDIANTES ANTIGUOS: $3.258.883\nESTUDIANTES NUEVOS: $3.258.883\nPERIODOS: 9\nCR\u00c9DITOS ACAD\u00c9MICOS: 154\n"
@@ -1421,9 +1421,9 @@
             "context_set": ""
         },
         {
-            "tag": "valor de matricula contaduria publica   snies 15278",
+            "tag": "valor de matricula contaduria publica",
             "patterns": [
-                "valor de matricula contaduria publica   snies 15278"
+                "valor de matricula contaduria publica"
             ],
             "responses": [
                 "ESTUDIANTES ANTIGUOS: $3.840.186\nESTUDIANTES NUEVOS: $3.840.186\nPERIODOS: 8\nCR\u00c9DITOS ACAD\u00c9MICOS: 145\n"
@@ -1431,9 +1431,9 @@
             "context_set": ""
         },
         {
-            "tag": "valor de matricula negocios y finanzas internacionales   snies 9503",
+            "tag": "valor de matricula negocio y finanza internacional",
             "patterns": [
-                "valor de matricula negocios y finanzas internacionales   snies 9503"
+                "valor de matricula negocio y finanza internacional"
             ],
             "responses": [
                 "ESTUDIANTES ANTIGUOS: $5.203.297\nESTUDIANTES NUEVOS: $5.250.592\nPERIODOS: 9\nCR\u00c9DITOS ACAD\u00c9MICOS: 151\n"
@@ -1441,9 +1441,9 @@
             "context_set": ""
         },
         {
-            "tag": "valor de matricula tecnica profesional en operaciones portuarias   snies 54140",
+            "tag": "valor de matricula tecnica profesional en operacion portuaria",
             "patterns": [
-                "valor de matricula tecnica profesional en operaciones portuarias   snies 54140"
+                "valor de matricula tecnica profesional en operacion portuaria"
             ],
             "responses": [
                 "ESTUDIANTES ANTIGUOS: $1.877.740\nESTUDIANTES NUEVOS: $1.877.740\nPERIODOS: 4\nCR\u00c9DITOS ACAD\u00c9MICOS: 67\n"
@@ -1451,9 +1451,9 @@
             "context_set": ""
         },
         {
-            "tag": "valor de matricula tecnologia en gestion portuaria   snies 54139",
+            "tag": "valor de matricula tecnologia en gestion portuaria",
             "patterns": [
-                "valor de matricula tecnologia en gestion portuaria   snies 54139"
+                "valor de matricula tecnologia en gestion portuaria"
             ],
             "responses": [
                 "ESTUDIANTES ANTIGUOS: $2.652.554\nESTUDIANTES NUEVOS: $2.604.724\nPERIODOS: 6\nCR\u00c9DITOS ACAD\u00c9MICOS: 100\n"
@@ -1461,9 +1461,9 @@
             "context_set": ""
         },
         {
-            "tag": "valor de matricula comunicacion social   periodismo   snies 9335",
+            "tag": "valor de matricula comunicacion social",
             "patterns": [
-                "valor de matricula comunicacion social   periodismo   snies 9335"
+                "valor de matricula comunicacion social"
             ],
             "responses": [
                 "ESTUDIANTES ANTIGUOS: $5.445.203\nESTUDIANTES NUEVOS: $5.494.730\nPERIODOS: 9\nCR\u00c9DITOS ACAD\u00c9MICOS: 153\n"
@@ -1471,9 +1471,9 @@
             "context_set": ""
         },
         {
-            "tag": "valor de matricula deporte y cultura fisica   snies 101957",
+            "tag": "valor de matricula deporte y cultura fisica",
             "patterns": [
-                "valor de matricula deporte y cultura fisica   snies 101957"
+                "valor de matricula deporte y cultura fisica"
             ],
             "responses": [
                 "ESTUDIANTES ANTIGUOS: $3.844.228\nESTUDIANTES NUEVOS: $3.774.818\nPERIODOS: 9\nCR\u00c9DITOS ACAD\u00c9MICOS: 150\n"
@@ -1481,9 +1481,9 @@
             "context_set": ""
         },
         {
-            "tag": "valor de matricula comunicacion audiovisual   snies 108490 antes direccion y produccion de radio y television ",
+            "tag": "valor de matricula comunicacion audiovisual",
             "patterns": [
-                "valor de matricula comunicacion audiovisual   snies 108490 antes direccion y produccion de radio y television "
+                "valor de matricula comunicacion audiovisual"
             ],
             "responses": [
                 "ESTUDIANTES ANTIGUOS: $4.263.835\nESTUDIANTES NUEVOS: $4.302.634\nPERIODOS: 8\nCR\u00c9DITOS ACAD\u00c9MICOS: 140\n"
@@ -1491,9 +1491,9 @@
             "context_set": ""
         },
         {
-            "tag": "valor de matricula psicologia   snies 52724",
+            "tag": "valor de matricula psicologia",
             "patterns": [
-                "valor de matricula psicologia   snies 52724"
+                "valor de matricula psicologia"
             ],
             "responses": [
                 "ESTUDIANTES ANTIGUOS: $4.008.176\nESTUDIANTES NUEVOS: $4.008.176\nPERIODOS: 9\nCR\u00c9DITOS ACAD\u00c9MICOS: 156\n"
@@ -1501,9 +1501,9 @@
             "context_set": ""
         },
         {
-            "tag": "valor de matricula ciencias politicas   snies 102146",
+            "tag": "valor de matricula ciencia politica",
             "patterns": [
-                "valor de matricula ciencias politicas   snies 102146"
+                "valor de matricula ciencia politica"
             ],
             "responses": [
                 "ESTUDIANTES ANTIGUOS: $5.003.902\nESTUDIANTES NUEVOS: $5.003.902\nPERIODOS: 8\nCR\u00c9DITOS ACAD\u00c9MICOS: 128\n"
@@ -1511,9 +1511,9 @@
             "context_set": ""
         },
         {
-            "tag": "valor de matricula derecho   snies 7246",
+            "tag": "valor de matricula derecho",
             "patterns": [
-                "valor de matricula derecho   snies 7246"
+                "valor de matricula derecho"
             ],
             "responses": [
                 "ESTUDIANTES ANTIGUOS: $3.625.815\nESTUDIANTES NUEVOS: $3.658.761\nPERIODOS: 10\nCR\u00c9DITOS ACAD\u00c9MICOS: 160\n"
@@ -1521,9 +1521,9 @@
             "context_set": ""
         },
         {
-            "tag": "valor de matricula derecho   ocana",
+            "tag": "valor de matricula derecho",
             "patterns": [
-                "valor de matricula derecho   ocana"
+                "valor de matricula derecho"
             ],
             "responses": [
                 "ESTUDIANTES ANTIGUOS: $2.874.793\nESTUDIANTES NUEVOS: \nPERIODOS: \nCR\u00c9DITOS ACAD\u00c9MICOS: \n"
@@ -1531,9 +1531,9 @@
             "context_set": ""
         },
         {
-            "tag": "numero numeros de contacto canales de atencion equipo de mercadeo",
+            "tag": "numero de contacto canal de atencion equipo de mercadeo",
             "patterns": [
-                "numero numeros de contacto canales de atencion equipo de mercadeo"
+                "numero de contacto canal de atencion equipo de mercadeo"
             ],
             "responses": [
                 "NOMBRE FUNCIONARIO: Glizethmary Garcia San Juan\n\nCELULAR: 3006754239\n\nCORREO ELECTR\u00d3NICO: glicethmary.garcia@uac.edu.co\n\n-------------------------------\nNOMBRE FUNCIONARIO: Andr\u00e9s Santamaria\n\nCELULAR: 3106300459\n\nCORREO ELECTR\u00d3NICO: andres.santamaria@uac.edu.co\n\n-------------------------------\nNOMBRE FUNCIONARIO: Enrique Manjarres\n\nCELULAR: 3013310829\n\nCORREO ELECTR\u00d3NICO: enrique.majarres@uac.edu.co\n\n-------------------------------\nNOMBRE FUNCIONARIO: David Cardenas\n\nCELULAR: 3004395885\n\nCORREO ELECTR\u00d3NICO: david.cardenas19@uac.edu.co\n\n-------------------------------\nNOMBRE FUNCIONARIO: Ericka Navarro\n\nCELULAR: 3012942999\n\nCORREO ELECTR\u00d3NICO: erika.navarro@uac.edu.co\n\n-------------------------------\nNOMBRE FUNCIONARIO: Adelina Paez\n\nCELULAR: 3016041373\n\nCORREO ELECTR\u00d3NICO: adelina.paez@uac.edu.co\n\n-------------------------------\n"
@@ -1541,9 +1541,9 @@
             "context_set": ""
         },
         {
-            "tag": "numero numeros de contacto canales de atencion mesa de ayuda",
+            "tag": "numero de contacto canal de atencion mesa de ayuda",
             "patterns": [
-                "numero numeros de contacto canales de atencion mesa de ayuda"
+                "numero de contacto canal de atencion mesa de ayuda"
             ],
             "responses": [
                 "La universidad Aut\u00f3noma del caribe a puesto a disposici\u00f3n a  sus estudiantes la mesa de ayuda, el cual te ayudara a gestionar siempre y  cuando presentas inconvenientes con tu curso, no encuentras cupo, requieres  cr\u00e9ditos extra, o te faltan cr\u00e9ditos por cubrir, esta solicitud puedes  realizarla a trav\u00e9s de la herramienta SAV a la cual puedes acceder en el enlace  http://sav.uac.edu.co/\u00a0\u00a0 \n1.\u00a0Se  direccionan a la opci\u00f3n solicitudes y consulta y le dan radicar \n\r\n 2.\u00a0En la  opci\u00f3n que indica (es usted) seleccione estudiantes \n\r\n 3.\u00a0En la  opci\u00f3n que dice (\u00bfQu\u00e9 necesita?) ubique la dependencia de secretaria general y  selecciones la opci\u00f3n que dice mesa de ayuda de acuerdo con la facultad que te  encuentras matriculado\n\n\n\r\nAdem\u00e1s, ha puesto a disposici\u00f3n la mesa de ayuda a trav\u00e9s  de correo el\u00e9ctrico por facultad, el cual esta atender\u00e1 los casos que presenten  inconvenientes con la creaci\u00f3n de tu horario:\u00a0\u00a0 \n\n\n\r\n 1.\u00a0Facultad  de ingenier\u00eda: mesadeayudafi@uac.edu.co \n\r\n 2.\u00a0Facultad  de ciencias sociales y humanas: mesadeayudafcsh@uac.edu.co \n\r\n 3.\u00a0Facultad  de arquitectura, arte y dise\u00f1o: mesadeayudafaad@uac.edu.co \n\r\n 4.\u00a0Facultad  de ciencias administrativas, econ\u00f3micas y contables:  mesadeayudafcaec@uac.edu.co \n\r\n  5.\u00a0Facultad  de jurisprudencia: mesadeayudafj@uac.edu.co"
@@ -1551,9 +1551,9 @@
             "context_set": ""
         },
         {
-            "tag": "numero numeros de contacto canales de atencion departamento de registro y control   secretaria general",
+            "tag": "numero de contacto canal de atencion departamento de registro y control secretaria general",
             "patterns": [
-                "numero numeros de contacto canales de atencion departamento de registro y control   secretaria general"
+                "numero de contacto canal de atencion departamento de registro y control secretaria general"
             ],
             "responses": [
                 "Con el fin de atender las solicitudes de los estudiantes y egresados, el Equipo de la Unidad de Registro y Control Acad\u00e9mico, esta presto a brindar la informaci\u00f3n requerida en cada proceso as\u00ed:\r\n  \n\n\n\r\n  \u2022Evaluaci\u00f3n Diferida-Verificaciones  Acad\u00e9micas\n\n\r\n  Funcionaria: Claudia Vanegas Hernandez\nEmail: claudia.vanegas@uac.edu.co\n\r\n  N\u00famero Celular / L\u00ednea WhatsApp : 3245483980\n\n\n\n\r\n \u2022 Certificaciones Acad\u00e9micas\r\n\n\n\r\n  Funcionaria: Robert Movilla Alvarez\nEmail: robert.movilla@uac.edu.co\n\r\n  N\u00famero de Tel\u00e9fono: 6053853400  Ext:581\n\n\n\n\r\n\u2022  Examen \u00danico-Contenidos Programaticos\n\nFuncionaria: Rosiris Thorne  Ferrer\nEmail: rosiris.thorne@uac.edu.co\r\n\r\n\n\n\r\n\u2022  Examen De Validaci\u00f3n -Carga Adicional\n\nFuncionario: Beatriz Ricardo Sandoval\nEmail: beatriz.ricardo@uac.edu.co\n\r\nL\u00ednea WhatsApp : 3218131922\n\n\n\n\r\n \u2022  Inquietudes, Quejas , Solicitudes De La Unidad De Registro Y Control Acad\u00e9mico\n\nFuncionario: Bertha Herrera Manjarres\r\n  \nEmail: bertha.herrera@uac.edu.co\n\r\nN\u00famero Celular / L\u00ednea WhatsApp:3052345088\n\n\n\n*Verificaciones Acad\u00e9micas\n\n Las empresas o instituciones que requieran verificaci\u00f3n de estudio o t\u00edtulo profesional de nuestros estudiantes o egresados deben enviar la solicitud al correo secretaria.registro@uac.edu.co anexando las autorizaciones a que haya lugar."
@@ -1561,9 +1561,9 @@
             "context_set": ""
         },
         {
-            "tag": "numero numeros de contacto canales de atencion departamento de admisiones   secretaria general",
+            "tag": "numero de contacto canal de atencion departamento de admision secretaria general",
             "patterns": [
-                "numero numeros de contacto canales de atencion departamento de admisiones   secretaria general"
+                "numero de contacto canal de atencion departamento de admision secretaria general"
             ],
             "responses": [
                 "FUNCIONARIO: DIVA REYES\n\nCORREO ELECTR\u00d3NICO: diva.reyes@uac.edu.co\n\nTEL\u00c9FONO: 6053853400 Ext:215\n\nFACULTAD ASIGNADA: Jurisprudencia / Arquitectura, arte y dise\u00f1o\n\nPROCESO: Admisi\u00f3n en todos los tipos de ingreso, solicitud de homologaciones por transferencia interna y externa, solicitud de estudios de reingreso, restauraci\u00f3n de usuario y contrase\u00f1a, actualizaci\u00f3n de homologaciones por TE y TI, traslado de inscripciones y programaci\u00f3n de entrevistas cuando sea necesario.\n\n-------------------------------\nFUNCIONARIO: AYLEEN RODRIGUEZ\n\nCORREO ELECTR\u00d3NICO: ayleen.rodriguez@uac.edu.co\n\nTEL\u00c9FONO: 6053853400 Ext:583\n\nFACULTAD ASIGNADA: Ciencias Administrativa, econ\u00f3mica y contable (presencial y virtual) / Posgrados presenciales y virtuales\n\nPROCESO: Admisi\u00f3n en todos los tipos de ingreso, solicitud de homologaciones por transferencia interna y externa, solicitud de estudios de reingreso, restauraci\u00f3n de usuario y contrase\u00f1a, actualizaci\u00f3n de homologaciones por TE y TI, traslado de inscripciones y programaci\u00f3n de entrevistas cuando sea necesario.\n\n-------------------------------\nFUNCIONARIO: EMALINE ARIAS\n\nCORREO ELECTR\u00d3NICO: emalinemaria.arias@uac.edu.co\n\nTEL\u00c9FONO: 6053853400 Ext:582\n\nFACULTAD ASIGNADA: Ciencias Sociales y Humanas, Ingenier\u00edas y CEP\n\nPROCESO: Admisi\u00f3n en todos los tipos de ingreso, solicitud de homologaciones por transferencia interna y externa, solicitud de estudios de reingreso, restauraci\u00f3n de usuario y contrase\u00f1a, actualizaci\u00f3n de homologaciones por TE y TI, traslado de inscripciones y programaci\u00f3n de entrevistas cuando sea necesario.\n\n-------------------------------\nFUNCIONARIO: YANERIS MENDOZA\n\nCORREO ELECTR\u00d3NICO: yaneris.mendoza@uac.edu.co\n\nFACULTAD ASIGNADA: Todas las solicitudes de los diferentes programas, estudiantes y no estudiantes realizadas al correo\n\nPROCESO: Las anteriores, cambios de planes de estudio, actualizaci\u00f3n de datos u otra informaci\u00f3n en \u00e9pica, informes relacionados con el \u00e1rea\n\n-------------------------------\n"
@@ -1571,9 +1571,9 @@
             "context_set": ""
         },
         {
-            "tag": "numero numeros de contacto canales de atencion departamento de credito y cartera",
+            "tag": "numero de contacto canal de atencion departamento de credito y cartera",
             "patterns": [
-                "numero numeros de contacto canales de atencion departamento de credito y cartera"
+                "numero de contacto canal de atencion departamento de credito y cartera"
             ],
             "responses": [
                 "NOMBRE FUNCIONARIO: Eliana Solipa\n\nTEL\u00c9FONO: 6053853400 Ext.454\n\nCORREO ELECTR\u00d3NICO: eliana.solipa@uac.edu.co\n\nFACULTADES O PROGRAMAS ASIGNADOS: Jur\u00eddica y Negocios Internacionales presencial y virtual.\n\n-------------------------------\nNOMBRE FUNCIONARIO: Casos ICETEX\n\nTEL\u00c9FONO: 6053853400 Ext.281\n\nCORREO ELECTR\u00d3NICO: asesores.icetexuac@uac.edu.co\n\nFACULTADES O PROGRAMAS ASIGNADOS: Solicitudes y renovaciones ICETEX\n\n-------------------------------\nNOMBRE FUNCIONARIO: Carmen Mart\u00ednez\n\nCORREO ELECTR\u00d3NICO: carmen.martinez@uac.edu.co\n\nFACULTADES O PROGRAMAS ASIGNADOS: Arquitectura, Arte y Dise\u00f1o. Programas CEP\n\n-------------------------------\nNOMBRE FUNCIONARIO: Daniela Amador\n\nCORREO ELECTR\u00d3NICO: daniela.amador72@uac.edu.co\n\nFACULTADES O PROGRAMAS ASIGNADOS: Ingenier\u00edas\n\n-------------------------------\nNOMBRE FUNCIONARIO: Betty Vanessa Rosado\n\nCORREO ELECTR\u00d3NICO: betty.rosado28@uac.edu.co\n\nFACULTADES O PROGRAMAS ASIGNADOS: Administraci\u00f3n de empresas, Hoteler\u00eda y Turismo, Contadur\u00eda y Administraci\u00f3n de empresas virtual.\n\n-------------------------------\nNOMBRE FUNCIONARIO: Yiraudis Guzm\u00e1n\n\nCORREO ELECTR\u00d3NICO: yiraudis.guzman@uac.edu.co\n\nFACULTADES O PROGRAMAS ASIGNADOS: Ciencias Sociales y Humanas\n\n-------------------------------\nNOMBRE FUNCIONARIO: Miguel Varela\n\nCORREO ELECTR\u00d3NICO: miguel.varela65@uac.edu.co\n\nFACULTADES O PROGRAMAS ASIGNADOS: Programas de Posgrados presenciales y virtuales.\n\n-------------------------------\n"
@@ -1581,9 +1581,9 @@
             "context_set": ""
         },
         {
-            "tag": "numero numeros de contacto canales de atencion facultad de arquitectura  arte y diseno",
+            "tag": "numero de contacto canal de atencion facultad de arquitectura arte y diseno",
             "patterns": [
-                "numero numeros de contacto canales de atencion facultad de arquitectura  arte y diseno"
+                "numero de contacto canal de atencion facultad de arquitectura arte y diseno"
             ],
             "responses": [
                 "FACULTAD Y/O PROGRAMA: Facultad de Arquitectura, Arte y Dise\u00f1o\nProceso que atiende: Mesa de ayuda de primer semestre de los cuatro programas de la facultad.\n\nFUNCIONARIO: Nurgenys Marquez\n\nCORREO ELECTR\u00d3NICO: nurgenys.marquez@uac.edu.co\n\n-------------------------------\nFACULTAD Y/O PROGRAMA: Arquitectura y Dise\u00f1o de Espacios\nProceso que atiende: Mesa de ayuda de segundo semestre en adelante.\n\nFUNCIONARIO: Aura Sanchez\n\nCORREO ELECTR\u00d3NICO: aura.sanchez@uac.edu.co\n\n-------------------------------\nFACULTAD Y/O PROGRAMA: Dise\u00f1o Gr\u00e1fico y Dise\u00f1o de Modas\nProceso que atiende: Mesa de ayuda de segundo semestre en adelante\n\nFUNCIONARIO: Carmen Gonz\u00e1lez Consuegra\n\nCORREO ELECTR\u00d3NICO: carmen.gonzalez@uac.edu.co\n\n-------------------------------\n"
@@ -1591,9 +1591,9 @@
             "context_set": ""
         },
         {
-            "tag": "numero numeros de contacto canales de atencion facultad de ciencias administrativas  economicas y contables",
+            "tag": "numero de contacto canal de atencion facultad de ciencia administrativa economica y contable",
             "patterns": [
-                "numero numeros de contacto canales de atencion facultad de ciencias administrativas  economicas y contables"
+                "numero de contacto canal de atencion facultad de ciencia administrativa economica y contable"
             ],
             "responses": [
                 "NEGOCIOS Y FINANZAS INTERNACIONALES: Secretaria\n\nFUNCIONARIO: Ana Orozco\n\nCORREO: ana.orozco27@uac.edu.co\n\n-------------------------------\nNEGOCIOS Y FINANZAS INTERNACIONALES: Gesti\u00f3n Pace, Homologaciones\n\nFUNCIONARIO: Paola Palacio\n\nCORREO: pola.palacio@uac.edu.co\n\n-------------------------------\nNEGOCIOS Y FINANZAS INTERNACIONALES: Gestora de Pr\u00e1cticas\n\nFUNCIONARIO: Sandra Ganem\n\nCORREO: sandra.ganem@uac.edu.co\n\n-------------------------------\nADMINISTRACI\u00d3N MAR\u00cdTIMA, FLUVIAL Y PORTUARIO: Gestor Pace\n\nFUNCIONARIO: Javier Vivas\n\nCORREO: javier.vivas@uac.edu.co\n\n-------------------------------\nADMINISTRACI\u00d3N MAR\u00cdTIMA, FLUVIAL Y PORTUARIO: Gestor de Pr\u00e1cticas\n\nFUNCIONARIO: Oreste Martinez\n\nCORREO: orestes.martinez@uac.edu.co\n\n-------------------------------\nADMINISTRACI\u00d3N DE EMPRESAS PRESENCIAL Y VIRTUAL: Directora\n\nFUNCIONARIO: Iraida Caballero\n\nCORREO ELECTR\u00d3NICO: iraida.caballero@uac.edu.co\n\nCELULAR / WHATSAPP: 3006963275\n\nTEL\u00c9FONO: 6053853400 Ext:265\n\nHORARIO: 8 a.m a 6 p.m\n\n-------------------------------\nADMINISTRACI\u00d3N DE EMPRESAS PRESENCIAL Y VIRTUAL: Gestor Pace\n\nFUNCIONARIO: Laura Laino Garc\u00eda\n\nCORREO ELECTR\u00d3NICO: laura.laino@uac.edu.co\n\n-------------------------------\nADMINISTRACI\u00d3N DE EMPRESAS PRESENCIAL Y VIRTUAL: Secretaria\n\nFUNCIONARIO: Josefa Duran Camargo\n\nCORREO ELECTR\u00d3NICO: josefa.duran@uac.edu.co\n\n-------------------------------\nADMINISTRACI\u00d3N DE EMPRESAS PRESENCIAL Y VIRTUAL: Gestor de Egresados y Pr\u00e1cticas\n\nFUNCIONARIO: Nancy Bossa Ca\u00f1as\n\nCORREO ELECTR\u00d3NICO: nancy.bossa16@uac.edu.co\n\n-------------------------------\n"
@@ -1601,9 +1601,9 @@
             "context_set": ""
         },
         {
-            "tag": "numero numeros de contacto canales de atencion facultad de ciencias sociales y humanas",
+            "tag": "numero de contacto canal de atencion facultad de ciencia social y humana",
             "patterns": [
-                "numero numeros de contacto canales de atencion facultad de ciencias sociales y humanas"
+                "numero de contacto canal de atencion facultad de ciencia social y humana"
             ],
             "responses": [
                 "PROGRAMA: Comunicaci\u00f3n Audiovisual\n\nFUNCIONARIO: Carmen De Le\u00f3n\n\nCELULAR: 3183780119\n\nCORREO ELECTR\u00d3NICO: carmen.deleon@uac.edu.co\n\n-------------------------------\nPROGRAMA: Psicolog\u00eda\n\nFUNCIONARIO: Valerys Daza\n\nCELULAR: 3045357036\n\nCORREO ELECTR\u00d3NICO: valerys.daza@uac.edu.co\n\n-------------------------------\nPROGRAMA: Deporte y Cultura F\u00edsica\n\nFUNCIONARIO: Yolima Medina\n\nCELULAR: 3022879167\n\nCORREO ELECTR\u00d3NICO: yolima.medina@uac.edu.co\n\n-------------------------------\nPROGRAMA: Especializaciones en Comunicaci\u00f3n\n\nFUNCIONARIO: Vanina Linces\n\nCELULAR: 3044642371\n\nCORREO ELECTR\u00d3NICO: vanina.linces@uac.edu.co\n\n-------------------------------\nPROGRAMA: Comunicaci\u00f3n Social - Periodismo\n\nFUNCIONARIO: Adela Hern\u00e1ndez\n\nCELULAR: 3157176439\n\nCORREO ELECTR\u00d3NICO: adela.hernandez@uac.edu.co\n\n-------------------------------\n"
@@ -1611,9 +1611,9 @@
             "context_set": ""
         },
         {
-            "tag": "numero numeros de contacto canales de atencion facultad de ingenieria",
+            "tag": "numero de contacto canal de atencion facultad de ingenieria",
             "patterns": [
-                "numero numeros de contacto canales de atencion facultad de ingenieria"
+                "numero de contacto canal de atencion facultad de ingenieria"
             ],
             "responses": [
                 "FUNCIONARIO / Gesti\u00f3n acad\u00e9mica y direcci\u00f3n de programa: Armando El\u00edas Robledo Acosta\r\n    Decano\n\nTEL\u00c9FONOS DE CONTACTO: 3157206587      \n\r\n6053853400 Ext:309\n\nCORREO ELECTR\u00d3NICO: armando.robledo@uac.edu.co\n\n-------------------------------\nFUNCIONARIO / Gesti\u00f3n acad\u00e9mica y direcci\u00f3n de programa: Beatriz Maria Cardozo Arrieta\r\n      Jefe de los laboratorios de la Facultad de Ingenier\u00eda y docente de la Facultad.\n\nTEL\u00c9FONOS DE CONTACTO: 6053853400 Ext:412\n\nCORREO ELECTR\u00d3NICO: beatriz.cardozo@uac.edu.co\n\n-------------------------------\nFUNCIONARIO / Gesti\u00f3n acad\u00e9mica y direcci\u00f3n de programa: Mauricio M\u00e1rquez Santos\r\n      Director Programa Ingenier\u00eda Mec\u00e1nica\n\nTEL\u00c9FONOS DE CONTACTO: 6053853400 Ext:461\n\nCORREO ELECTR\u00d3NICO: mauricio.marquez45@uac.edu.co\n\n-------------------------------\nFUNCIONARIO / Gesti\u00f3n acad\u00e9mica y direcci\u00f3n de programa: Jos\u00e9 Luis Martinez Campo\r\n      Director Programa Ingenier\u00eda Industrial\n\nTEL\u00c9FONOS DE CONTACTO: 6053853400 Ext:424\n\nCORREO ELECTR\u00d3NICO: joseluis.martinez@uac.edu.co\n\n-------------------------------\nFUNCIONARIO / Gesti\u00f3n acad\u00e9mica y direcci\u00f3n de programa: Fabi\u00e1n Ramos Torres\r\n      Director Programa Ingenier\u00eda de Sistemas\n\nTEL\u00c9FONOS DE CONTACTO: 6053853400 Ext:473\n\nCORREO ELECTR\u00d3NICO: fabian.ramos@uac.edu.co\n\n-------------------------------\nFUNCIONARIO / Gesti\u00f3n acad\u00e9mica y direcci\u00f3n de programa: Evert De los Rios Trujillo\r\n      Director Programa Ingenier\u00eda Mecatr\u00f3nica \r\n      Director Programa Ingenier\u00eda Electr\u00f3nica y Telecomunicaciones\n\nTEL\u00c9FONOS DE CONTACTO: 6053853400 Ext:406\n\nCORREO ELECTR\u00d3NICO: evert.delosrios23@uac.edu.co\n\n-------------------------------\nFUNCIONARIO / Gesti\u00f3n acad\u00e9mica y direcci\u00f3n de programa: Omaira N\u00fa\u00f1ez Almanza\r\n      Auxiliar Administrativa\n\nTEL\u00c9FONOS DE CONTACTO: 6053853400 Ext:457\n\nCORREO ELECTR\u00d3NICO: omaira.nunez@uac.edu.co\n\n-------------------------------\nFUNCIONARIO / Gesti\u00f3n acad\u00e9mica y direcci\u00f3n de programa: Elda N\u00fa\u00f1ez Almanza\r\n      Asistente Procesos Acad\u00e9micos\n\nTEL\u00c9FONOS DE CONTACTO: 6053853400 Ext:295\n\nCORREO ELECTR\u00d3NICO: elda.nunez@uac.edu.co\n\n-------------------------------\n"
@@ -1621,9 +1621,9 @@
             "context_set": ""
         },
         {
-            "tag": "numero numeros de contacto canales de atencion facultad de jurisprudencia",
+            "tag": "numero de contacto canal de atencion facultad de jurisprudencia",
             "patterns": [
-                "numero numeros de contacto canales de atencion facultad de jurisprudencia"
+                "numero de contacto canal de atencion facultad de jurisprudencia"
             ],
             "responses": [
                 "PROCESO / PROGRAMA: Decano\n\nFUNCIONARIO: Victor Armenta Del Gordo\n\nL\u00cdNEAS  DE CONTACTO: -\n\nCORREO ELECTR\u00d3NICO: victor.armenta20@uac.edu.co\n\n-------------------------------\nPROCESO / PROGRAMA: Directora del programa de \r\n      Derecho y Ciencias Pol\u00edticas\n\nFUNCIONARIO: Victoria Rodr\u00edguez Ar\u00e9valo\n\nL\u00cdNEAS  DE CONTACTO: 3004653415\n\nCORREO ELECTR\u00d3NICO: victoria.rodriguez@uac.edu.co\n\n-------------------------------\nPROCESO / PROGRAMA: Secretaria\n\nFUNCIONARIO: Diana Padilla Berdugo\n\nL\u00cdNEAS  DE CONTACTO: 3007094858\n\nCORREO ELECTR\u00d3NICO: diana.padilla33@uac.edu.co\n\n-------------------------------\nPROCESO / PROGRAMA: Secretaria\n\nFUNCIONARIO: Luz Elena Niebles\n\nL\u00cdNEAS  DE CONTACTO: 3016385095\n\nCORREO ELECTR\u00d3NICO: luz.niebles@uac.edu.co\n\n-------------------------------\nPROCESO / PROGRAMA: Asistente\n\nFUNCIONARIO: Ver\u00f3nica Mendez\n\nL\u00cdNEAS  DE CONTACTO: -\n\nCORREO ELECTR\u00d3NICO: veronica.mendez@uac.edu.co\n\n-------------------------------\n"
@@ -1631,9 +1631,9 @@
             "context_set": ""
         },
         {
-            "tag": "numero numeros de contacto canales de atencion escuela de posgrado",
+            "tag": "numero de contacto canal de atencion escuela de posgrado",
             "patterns": [
-                "numero numeros de contacto canales de atencion escuela de posgrado"
+                "numero de contacto canal de atencion escuela de posgrado"
             ],
             "responses": [
                 "POSGRADOS: Coordinadora Administrativa de Posgrado\n\nFUNCIONARIO: Erika Rojas\n\nCORREO ELECTR\u00d3NICO: erika.rojas@uac.edu.co\n\n-------------------------------\n"
@@ -1641,9 +1641,9 @@
             "context_set": ""
         },
         {
-            "tag": "numero numeros de contacto canales de atencion bienestar institucional",
+            "tag": "numero de contacto canal de atencion bienestar institucional",
             "patterns": [
-                "numero numeros de contacto canales de atencion bienestar institucional"
+                "numero de contacto canal de atencion bienestar institucional"
             ],
             "responses": [
                 "FUNCIONARIO: TATIANA \u00c1VILA\n\nTEL\u00c9FONO DE CONTACTO: 3135818607\u00a0 \r\n    6053853400  Ext:256\n\nPROCESO: Informaci\u00f3n referente a los auxilios educativos deportivos y culturales, atenciones en el \u00e1rea de salud f\u00edsica y mental: inscripciones en el Jard\u00edn Infantil; atenciones informaci\u00f3n referente a los temas de apoyo en matr\u00edculas como financiaci\u00f3n directa, a trav\u00e9s de entidades financiera, Icetex.\n\n-------------------------------\n"
@@ -1651,9 +1651,9 @@
             "context_set": ""
         },
         {
-            "tag": "numero numeros de contacto canales de atencion departamento de tecnologia",
+            "tag": "numero de contacto canal de atencion departamento de tecnologia",
             "patterns": [
-                "numero numeros de contacto canales de atencion departamento de tecnologia"
+                "numero de contacto canal de atencion departamento de tecnologia"
             ],
             "responses": [
                 "GESTOR: RICARDO CABALLERO\n\nCONTACTO: 3013350449 \r\nTel\u00e9fono 6053853400 Ext:610\r\nCorreo: soportelogico.tic@uac.edu.co\n\nL\u00cdNEAS DE SERVICIO: - Orientaci\u00f3n al uso de los sistemas de aprendizaje (EXIA, CAMPUS VIRTUAL, APRENDO DIGITAL)\r\n- Acompa\u00f1amiento en el uso de Microsoft Teams\r\n- Creaci\u00f3n y soporte de cuentas de correo electr\u00f3nico\r\n- Orientaci\u00f3n al uso de los sistemas de informaci\u00f3n (EPICA, ACADEMIA, OSTICKET, SUITE CRM)\n\n-------------------------------\n"
@@ -1661,9 +1661,9 @@
             "context_set": ""
         },
         {
-            "tag": "numero numeros de contacto canales de atencion centro de educacion continuada y gerencial",
+            "tag": "numero de contacto canal de atencion centro de educacion continuada y gerencial",
             "patterns": [
-                "numero numeros de contacto canales de atencion centro de educacion continuada y gerencial"
+                "numero de contacto canal de atencion centro de educacion continuada y gerencial"
             ],
             "responses": [
                 "\u2022\tCentro de Educaci\u00f3n Permanente CEP \n\nProgramas T\u00e9cnicos CEP\n\n RAUL FONTALVO\n\r\nWhatsApp: 3008088496/ 3146517868\n\r\nCorreos electr\u00f3nicos: raul.fontalvo27@uac.edu.co , cep@uac.edu.co"
@@ -1671,9 +1671,9 @@
             "context_set": ""
         },
         {
-            "tag": "numero numeros de contacto canales de atencion ucil   centro de idiomas",
+            "tag": "numero de contacto canal de atencion ucil centro de idioma",
             "patterns": [
-                "numero numeros de contacto canales de atencion ucil   centro de idiomas"
+                "numero de contacto canal de atencion ucil centro de idioma"
             ],
             "responses": [
                 "FUNCIONARIO O MEDIO: P\u00e1gina Web institucional\n\nTEMAS: Procedimiento para inscripciones en    cursos especiales de ingl\u00e9s (planes normales)\n\nCONTACTO: https://www.uac.edu.co/ucil/cursos-especiales\n\n-------------------------------\nFUNCIONARIO O MEDIO: P\u00e1gina Web institucional\n\nTEMAS: Procedimiento para inscripciones en    cursos especiales de ingl\u00e9s (dirigidos a estudiantes que desean hacer    coterminales o para la graduaci\u00f3n oportuna)\u00a0    VIGENTES SOLO POR EL A\u00d1O 2021\n\nCONTACTO: https://www.uac.edu.co/ucil/plan-especial-de-nivelacion-para-coterminales-y-graduacion-oportuna\n\n-------------------------------\nFUNCIONARIO O MEDIO: P\u00e1gina Web institucional\n\nTEMAS: Procedimiento para de reversiones cursos de    ingl\u00e9s\n\nCONTACTO: https://www.uac.edu.co/ucil/cursos-especiales\n\n-------------------------------\nFUNCIONARIO O MEDIO: LINA    BARRAGAN RODRIGUEZ\n\nTEMAS: Ciencias Sociales y humanas\r\n      Ingenier\u00edas\r\n    Jurisprudencia\n\nCONTACTO: 3007393338 (celular + whatsapp) \r\n    ucil@uac.edu.co\n\n-------------------------------\nFUNCIONARIO O MEDIO: ISAIRA    QUINTERO PRINCIPE\n\nTEMAS: Ciencias Administrativas \r\nArquitectura\r\nJurisprudencia\n\nCONTACTO: Conmutador    6053853400 Ext:458 \r\ndesde un    Tigo marcar #286 \r\nisaira.quintero25@uac.edu.co\n\n-------------------------------\nFUNCIONARIO O MEDIO: LINA    BARRAGAN RODRIGUEZ\r\nProfesional Administrativa\n\nTEMAS: - Consultas generales acerca de    matr\u00edculas de cursos de lengua extranjera\r\n    -Atenci\u00f3n estudiantes no regulares\n\nCONTACTO: ucil@uac.edu.co\r\ncelular y whatsapp:\u00a0 3007393338\n\n-------------------------------\nFUNCIONARIO O MEDIO: ISAIRA QUINTERO PRINCIPE\r\n(Asistente    Administrativa)\n\nTEMAS: - Recepci\u00f3n de documentaci\u00f3n cursos    especiales (todos los niveles) \r\n-Radicaci\u00f3n de reversiones (todos los    niveles)\r\n-Inclusiones o cambios de horario\r\n-Radicaci\u00f3n solicitudes ex\u00e1menes de    validaci\u00f3n\r\n-Solicitud de diferidos por cruce de    horarios\n\nCONTACTO: isaira.quintero25@uac.edu.co\r\nConmutador    6053853400  Ext:458\r\ndesde un tigo marcar #286\n\n-------------------------------\nFUNCIONARIO O MEDIO: MANUEL    PALMA RODRIGUEZ\r\nCoordinador Acad\u00e9mico\n\nTEMAS: -Consultas ex\u00e1menes de Clasificaci\u00f3n y validaci\u00f3n\r\n-Estudios ex\u00e1menes Linguaskills\r\n-Solicitud de transferencias internas\r\n-Inasistencias\r\n-solicitudes de revisi\u00f3n de notas\r\n-Ex\u00e1menes de habilitaci\u00f3n\n\nCONTACTO: manuel.palma@uac.edu.co\n\n-------------------------------\nFUNCIONARIO O MEDIO: ORIETTA MARTINEZ OSSUNA\r\nCoordinadora Administrativa\n\nTEMAS: -Inclusiones o cambios de horario\r\nSolicitudes de sugerencias o quejas    en el servicio\n\nCONTACTO: orietta.martinez@uac.edu.co\r\n    isaira.quintero25@uac.edu.co\n\n-------------------------------\nFUNCIONARIO O MEDIO: LAURA    RIVERA FORERO\n\nTEMAS: Consultas o dificultades en EXIA (niveles 1,2,3)\n\nCONTACTO: laura.rivera68@uac.edu.co\n\n-------------------------------\nFUNCIONARIO O MEDIO: ALEJANDRO    QUINTANA GALVIS\n\nTEMAS: Consultas o dificultades en EXIA    (niveles 1,2,3)\n\nCONTACTO: alejandro.quintana1@uac.edu.co\n\n-------------------------------\nFUNCIONARIO O MEDIO: CRISTIAN    GUZMAN GAMARRA\n\nTEMAS: -Novedades acad\u00e9micas cursos virtuales en    desarrollo \r\nuacvirtual@uac.edu.co\r\nplataforma interna del curso\n\nCONTACTO: cristian.guzman21@uac.edu.co\n\n-------------------------------\nFUNCIONARIO O MEDIO: MARGGIE    HERRERA BONILLA\n\nTEMAS: -Novedades plataforma del Online    Practice\r\n-Apoyo estudiantes manejo plataforma    online practice y manejo de material digital\n\nCONTACTO: marggie.herrera@uac.edu.co\n\n-------------------------------\nFUNCIONARIO O MEDIO: YULY    ALVEAR PE\u00d1A\n\nTEMAS: Solicitud de Tutor\u00edas\n\nCONTACTO: yuly.alvear@uac.edu.co\n\n-------------------------------\n"
@@ -1681,9 +1681,9 @@
             "context_set": ""
         },
         {
-            "tag": "numero numeros de contacto canales de atencion biblioteca benjamin sarta",
+            "tag": "numero de contacto canal de atencion biblioteca benjamin sarta",
             "patterns": [
-                "numero numeros de contacto canales de atencion biblioteca benjamin sarta"
+                "numero de contacto canal de atencion biblioteca benjamin sarta"
             ],
             "responses": [
                 "Desde la BIBLIOTECA \u201cBENJAM\u00cdN SARTA\u201d continuamos apoy\u00e1ndolos desde la virtualidad, para poder brindarles nuestros recursos y servicios a toda la comunidad acad\u00e9mica en general.\n\n\n\r\nLos canales habilitados son: http://biblioteca.uac.edu.co/ http://koha.uac.edu.co/ \n\nCORREOS INSTITUCIONALES: biblioteca@uac.edu.co, patricia.celemin@uac.edu.co, shirly.patino@uac.edu.co\n\nSolicitud de paz y salvo de Biblioteca: http://sav.uac.edu.co"
@@ -1691,9 +1691,9 @@
             "context_set": ""
         },
         {
-            "tag": "numero numeros de contacto canales de atencion notificaciones judiciales",
+            "tag": "numero de contacto canal de atencion notificacion judicial",
             "patterns": [
-                "numero numeros de contacto canales de atencion notificaciones judiciales"
+                "numero de contacto canal de atencion notificacion judicial"
             ],
             "responses": [
                 "Para notificaciones judiciales por favor radicarlas a los correos rectoria@uac.edu.co y direccion.juridica@uac.edu.co"

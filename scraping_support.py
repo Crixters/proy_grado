@@ -1,7 +1,7 @@
 from bs4 import BeautifulSoup
 import requests
-import unidecode 
 import re
+import utils
 
 def get_support_questions_answers():
 
@@ -20,10 +20,8 @@ def get_support_questions_answers():
         question_answer = []
 
         department_title = tab_panel.find('h5').get_text().strip()
-        question = "numero numeros de contacto canales de atencion "+department_title
-        question = question.lower()
-        question = unidecode.unidecode(question)
-        question = re.sub(r'[^\w]', ' ', question)
+        question = "numero de contacto canales de atencion "+department_title
+        question = utils.adapt_phrase_to_bot(question)
 
         contact_text = ""
 

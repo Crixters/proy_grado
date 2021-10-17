@@ -1,8 +1,7 @@
 from bs4 import BeautifulSoup
 from datetime import date
 import requests
-import unidecode 
-import re 
+import utils
 
 url_pregrado_current_year_01 = f"https://www.uac.edu.co/calendario-academico/pregrado-{date.today().year}01"
 url_pregrado_current_year_02 = f"https://www.uac.edu.co/calendario-academico/pregrado-{date.today().year}02"
@@ -29,10 +28,8 @@ def get_academic_calendar_questions_answers(url_calendar):
                     question_answer = []
 
                     question = "fecha "+tables_d[0].get_text().strip() + " "+studies_type+" "+calendar_period+" "+calendar_period[:-2]+" "+calendar_period[-2:]
-                    question = question.lower()
-                    question = unidecode.unidecode(question)
-                    question = re.sub(r'[^\w]', ' ', question)
-
+                    question = utils.adapt_phrase_to_bot(question)
+                      
                     answer = tables_d[1].get_text().strip()
 
                     question_answer.append(question)
