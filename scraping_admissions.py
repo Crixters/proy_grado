@@ -1,14 +1,19 @@
 from bs4 import BeautifulSoup
 import requests
 import re
+import unidecode 
 
 def get_admission_process_questions_answers(url, question):
+
+    question = question.lower()
+    question = unidecode.unidecode(question)
+    question = re.sub(r'[^\w]', ' ', question)
 
     response = requests.get(url)
     soup_object = BeautifulSoup(response.content,'html.parser')
     questions_answers_array = []
-    questions = []
-    answers = []
+
+    question_answer = []
 
     answer = ""
 
@@ -23,11 +28,10 @@ def get_admission_process_questions_answers(url, question):
         step_description = re.sub(r'\n\s*\n', r'\n\n', step_div.find('div').get_text().strip(), flags=re.M).replace("  ","")
         answer = answer + step_title + "\n\n" + step_description + "\n\n"
 
-    questions.append(question)
-    answers.append(answer)
-    questions_answers_array.append(questions)
-    questions_answers_array.append(answers)
-
+    question_answer.append(question)
+    question_answer.append(answer)
+    questions_answers_array.append(question_answer)
+    
     return questions_answers_array
 
 #get_admission_process_questions_answers("https://www.uac.edu.co/admisiones-y-registro/pregrado/nuevo-aspirante","proceso de inscripcion - admision aspirantes nuevos")

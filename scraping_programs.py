@@ -1,13 +1,12 @@
 from bs4 import BeautifulSoup
 import requests
-
+import unidecode
+import re 
 
 def get_uac_tuition_prices_questions_answers():
     url_tuition_prices = "https://www.uac.edu.co/programas/valores-de-matricula"
 
     question_answers_array = []
-    questions = []
-    answers = []
 
     response = requests.get(url_tuition_prices)
     soup_object = BeautifulSoup(response.content,'html.parser')
@@ -20,24 +19,32 @@ def get_uac_tuition_prices_questions_answers():
         tbody = price_table.find('tbody',{'class':'intercaladas'})
         trs = tbody.find_all('tr')
         for tr in trs:
+            question_answer = []
             first_td = tr.find('td',{'class':'first'})
             question = "valor de matricula "+first_td.get_text(strip=True)
+            question = question.lower()
+            question = unidecode.unidecode(question)
+            question = re.sub(r'[^\w]', ' ', question)
             first_td.extract()
             tds = tr.find_all('td')
             answer = ""
             for td in tds:
                 answer = answer + td['data-label'] + " " + td.get_text(strip=True) + "\n"
 
-            questions.append(question)
-            answers.append(answer)
-    question_answers_array.append(questions)
-    question_answers_array.append(answers)
+            question_answer.append(question)
+            question_answer.append(answer)
+            question_answers_array.append(question_answer)
 
     return question_answers_array
 
 def get_uac_programs_questions_answers(url, question):
 
+    question = question.lower()
+    question = unidecode.unidecode(question)
+    question = re.sub(r'[^\w]', ' ', question)
+
     questions_answers_array = []
+    question_answer = []
 
     answer = ""
 
@@ -50,8 +57,9 @@ def get_uac_programs_questions_answers(url, question):
     for program_name_link in program_name_links:
         answer = answer + program_name_link.get_text(strip=True)+"\n"
 
-    questions_answers_array.append(question)
-    questions_answers_array.append(answer)
+    question_answer.append(question)
+    question_answer.append(answer)
+    questions_answers_array.append(question_answer)
 
     return questions_answers_array
 
@@ -59,5 +67,3 @@ def get_uac_programs_questions_answers(url, question):
 #get_uac_programs_questions_answers("https://www.uac.edu.co/oferta-academica/especializaciones","¿Cúales son los programas de especializaciones de la universidad autónoma del caribe?")
 #get_uac_programs_questions_answers("https://www.uac.edu.co/oferta-academica/maestrias","¿Cúales son los programas de maestria de la universidad autónoma del caribe?")
 
-
-#get_uac_tuition_prices_questions_answers()

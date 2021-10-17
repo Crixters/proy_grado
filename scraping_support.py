@@ -1,12 +1,13 @@
 from bs4 import BeautifulSoup
 import requests
+import unidecode 
+import re
 
-support_page_url = "https://www.uac.edu.co/canales-atencion/"
+def get_support_questions_answers():
 
-def get_support_questions_answers(urlSupport):
+    urlSupport= "https://www.uac.edu.co/canales-atencion/"
+
     questions_answers_array = []
-    questions_array = []
-    answers_array = []  
 
     support_page_response = requests.get(urlSupport)
     support_page_soup_object = BeautifulSoup(support_page_response.content,'html.parser')
@@ -16,7 +17,14 @@ def get_support_questions_answers(urlSupport):
 
     for tab_panel in tab_panels:
 
+        question_answer = []
+
         department_title = tab_panel.find('h5').get_text().strip()
+        question = "numero numeros de contacto canales de atencion "+department_title
+        question = question.lower()
+        question = unidecode.unidecode(question)
+        question = re.sub(r'[^\w]', ' ', question)
+
         contact_text = ""
 
         support_information_body = tab_panel.find('div',{'class':'card-body'})
@@ -42,8 +50,9 @@ def get_support_questions_answers(urlSupport):
                 br.replace_with("\n")
             contact_text = support_information_body.get_text().strip().replace("   ","")
 
-        questions_answers_array.append("contacto o canales de atención "+department_title)
-        questions_answers_array.append(contact_text)
+        question_answer.append(question)
+        question_answer.append(contact_text)
+        questions_answers_array.append(question_answer)
    
     return questions_answers_array
 
