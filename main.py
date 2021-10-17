@@ -1,7 +1,7 @@
 from flask import Flask
 from flask import request
 from flask import jsonify
-from flask_cors import CORS, cross_Origin
+from flask_cors import CORS, cross_origin
 
 import bot_intents_creation
 
@@ -18,7 +18,7 @@ bot_intents_creation.create_all_intents_and_save()
 create_bot_model()
 
 @app.route('/app/v1/bot',methods=["GET"])
-@cross_Origin()
+@cross_origin()
 def bot():
 
     input = request.args.get("input")
