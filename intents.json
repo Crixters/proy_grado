@@ -1201,6 +1201,626 @@
             "context_set": ""
         },
         {
+            "tag": "fecha inscripcion ingreso por primera vez transferencia externa o interna y reingreso pregrado 202201 2022 01",
+            "patterns": [
+                "fecha inscripcion ingreso por primera vez transferencia externa o interna y reingreso pregrado 202201 2022 01"
+            ],
+            "responses": [
+                "Del 23 de septiembre del 2021 al 11 de febrero de 2022"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "fecha entrevista ingreso por primera vez pregrado 202201 2022 01",
+            "patterns": [
+                "fecha entrevista ingreso por primera vez pregrado 202201 2022 01"
+            ],
+            "responses": [
+                "17 de octubre del 2021 hasta 22 de enero del 2022"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "fecha matricula ordinaria con pronto pago para estudiante nuevo reingreso transferencia externa pregrado 202201 2022 01",
+            "patterns": [
+                "fecha matricula ordinaria con pronto pago para estudiante nuevo reingreso transferencia externa pregrado 202201 2022 01"
+            ],
+            "responses": [
+                "30% descuento del 2 al 30 de noviembre de 2021"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "fecha matricula ordinaria con pronto pago para estudiante antiguo y transferencia interna pregrado 202201 2022 01",
+            "patterns": [
+                "fecha matricula ordinaria con pronto pago para estudiante antiguo y transferencia interna pregrado 202201 2022 01"
+            ],
+            "responses": [
+                "20% Del 15 de octubre al 16 de noviembre de 2021\r\n\t  15% Del 17 de noviembre al 30 de noviembre de 2021\t  \r\n10% Del 01 de diciembre de 2021 al 16 de enero de 2022\r\n5% Del 17 de enero hasta el 16 de febrero de 2022\r\nOrdinaria, del 17 de febrero hasta el 28 de febrero de 2022"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "fecha matricula plena ucil toda a excepcion de curso especial pregrado 202201 2022 01",
+            "patterns": [
+                "fecha matricula plena ucil toda a excepcion de curso especial pregrado 202201 2022 01"
+            ],
+            "responses": [
+                "Del 15 de octubre de 2021 hasta  28 de febrero 2022"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "fecha asignacion academica pregrado 202201 2022 01",
+            "patterns": [
+                "fecha asignacion academica pregrado 202201 2022 01"
+            ],
+            "responses": [
+                "Del 24 de enero al 4 de febrero de 2022"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "fecha carga adicional de pregrado pregrado 202201 2022 01",
+            "patterns": [
+                "fecha carga adicional de pregrado pregrado 202201 2022 01"
+            ],
+            "responses": [
+                "Del 07 al 18 de febrero de 2022"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "fecha ajuste de matricula pregrado 202201 2022 01",
+            "patterns": [
+                "fecha ajuste de matricula pregrado 202201 2022 01"
+            ],
+            "responses": [
+                "Del 07 al 18 de febrero de 2022"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "fecha examen de validacion pregrado 202201 2022 01",
+            "patterns": [
+                "fecha examen de validacion pregrado 202201 2022 01"
+            ],
+            "responses": [
+                "Del 17 al 28 de enero de 2022"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "fecha aplicacion del examen de validacion pregrado 202201 2022 01",
+            "patterns": [
+                "fecha aplicacion del examen de validacion pregrado 202201 2022 01"
+            ],
+            "responses": [
+                "Del 31 de enero al 4 de febrero de 2022"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "fecha cancelacion de carga academica retiro de curso pregrado 202201 2022 01",
+            "patterns": [
+                "fecha cancelacion de carga academica retiro de curso pregrado 202201 2022 01"
+            ],
+            "responses": [
+                "Hasta el 22 de abril de 2022"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "fecha congelamiento pregrado sav pregrado 202201 2022 01",
+            "patterns": [
+                "fecha congelamiento pregrado sav pregrado 202201 2022 01"
+            ],
+            "responses": [
+                "Hasta el 26 de febrero de 2022"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "fecha devolucion de matricula pregrado pregrado 202201 2022 01",
+            "patterns": [
+                "fecha devolucion de matricula pregrado pregrado 202201 2022 01"
+            ],
+            "responses": [
+                "Hasta  04 de febrero de 2022"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "fecha ingreso de personal administrativo y docente de planta pregrado 202201 2022 01",
+            "patterns": [
+                "fecha ingreso de personal administrativo y docente de planta pregrado 202201 2022 01"
+            ],
+            "responses": [
+                "12 de enero de 2022"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "fecha postulacion de docente pregrado y posgrado tiempo completo pregrado 202201 2022 01",
+            "patterns": [
+                "fecha postulacion de docente pregrado y posgrado tiempo completo pregrado 202201 2022 01"
+            ],
+            "responses": [
+                "22 al 27 de noviembre 2021"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "fecha postulacion de docente catedratico pregrado pregrado 202201 2022 01",
+            "patterns": [
+                "fecha postulacion de docente catedratico pregrado pregrado 202201 2022 01"
+            ],
+            "responses": [
+                "11 al 14 de enero 2022"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "fecha grabacion de plan de actividad docente pad pregrado 202201 2022 01",
+            "patterns": [
+                "fecha grabacion de plan de actividad docente pad pregrado 202201 2022 01"
+            ],
+            "responses": [
+                "01 de marzo 2022"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "fecha ingreso docente de catedra pregrado 202201 2022 01",
+            "patterns": [
+                "fecha ingreso docente de catedra pregrado 202201 2022 01"
+            ],
+            "responses": [
+                "07 de febrero 2022"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "fecha semana de induccion nuevo estudiante pregrado 202201 2022 01",
+            "patterns": [
+                "fecha semana de induccion nuevo estudiante pregrado 202201 2022 01"
+            ],
+            "responses": [
+                "Del 31 de enero al 04 de febrero 2022"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "fecha iniciacion de clas para estudiante antiguo pregrado 202201 2022 01",
+            "patterns": [
+                "fecha iniciacion de clas para estudiante antiguo pregrado 202201 2022 01"
+            ],
+            "responses": [
+                "07 de febrero 2022"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "fecha carnaval pregrado 202201 2022 01",
+            "patterns": [
+                "fecha carnaval pregrado 202201 2022 01"
+            ],
+            "responses": [
+                "De 26 de febrero al 02 de marzo 2022"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "fecha primero parcial pregrado 202201 2022 01",
+            "patterns": [
+                "fecha primero parcial pregrado 202201 2022 01"
+            ],
+            "responses": [
+                "Del 14 al 26 marzo 2022"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "fecha plazo para solicitar inclusion en 1a ceremonia de grado pregrado 202201 2022 01",
+            "patterns": [
+                "fecha plazo para solicitar inclusion en 1a ceremonia de grado pregrado 202201 2022 01"
+            ],
+            "responses": [
+                "Del 11 al 28 de enero de 2022"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "fecha 1 ceremonia de grado pregrado 202201 2022 01",
+            "patterns": [
+                "fecha 1 ceremonia de grado pregrado 202201 2022 01"
+            ],
+            "responses": [
+                "25 de marzo de 2022"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "fecha 1 acompanamiento plan de accion anual pregrado 202201 2022 01",
+            "patterns": [
+                "fecha 1 acompanamiento plan de accion anual pregrado 202201 2022 01"
+            ],
+            "responses": [
+                "14 de marzo al 8 de abril de 2022"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "fecha semana santa pregrado 202201 2022 01",
+            "patterns": [
+                "fecha semana santa pregrado 202201 2022 01"
+            ],
+            "responses": [
+                "Del 11 al 15 de abril 2022"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "fecha eleccion de representante de lo estudiante profesor y egresado ante el consejo superior pregrado 202201 2022 01",
+            "patterns": [
+                "fecha eleccion de representante de lo estudiante profesor y egresado ante el consejo superior pregrado 202201 2022 01"
+            ],
+            "responses": [
+                "19 de abril de 2022"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "fecha segundo parcial pregrado 202201 2022 01",
+            "patterns": [
+                "fecha segundo parcial pregrado 202201 2022 01"
+            ],
+            "responses": [
+                "Del 25 de abril al 7 de mayo 2022"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "fecha ciclo de auditoria interna de calidad pregrado 202201 2022 01",
+            "patterns": [
+                "fecha ciclo de auditoria interna de calidad pregrado 202201 2022 01"
+            ],
+            "responses": [
+                "Abril a noviembre del 2022"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "fecha plazo para solicitar inclusion en 2a ceremonia de grado pregrado 202201 2022 01",
+            "patterns": [
+                "fecha plazo para solicitar inclusion en 2a ceremonia de grado pregrado 202201 2022 01"
+            ],
+            "responses": [
+                "Del 25 de abril al 13 de mayo 2022"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "fecha 2o ceremonia de grado pregrado 202201 2022 01",
+            "patterns": [
+                "fecha 2o ceremonia de grado pregrado 202201 2022 01"
+            ],
+            "responses": [
+                "22 de julio 2022"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "fecha homologacion de practica pregrado 202201 2022 01",
+            "patterns": [
+                "fecha homologacion de practica pregrado 202201 2022 01"
+            ],
+            "responses": [
+                "Hasta el 17 de junio 2022"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "fecha finalizacion de clas pregrado 202201 2022 01",
+            "patterns": [
+                "fecha finalizacion de clas pregrado 202201 2022 01"
+            ],
+            "responses": [
+                "03 de Junio 2022"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "fecha evaluacion final pregrado 202201 2022 01",
+            "patterns": [
+                "fecha evaluacion final pregrado 202201 2022 01"
+            ],
+            "responses": [
+                "06 al 18 de junio 2022"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "fecha evaluacion final diferida pregrado 202201 2022 01",
+            "patterns": [
+                "fecha evaluacion final diferida pregrado 202201 2022 01"
+            ],
+            "responses": [
+                "Hasta el 27 de junio 2022**"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "fecha habilitacion pregrado 202201 2022 01",
+            "patterns": [
+                "fecha habilitacion pregrado 202201 2022 01"
+            ],
+            "responses": [
+                "1 y 5 de julio 2022"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "fecha habilitacion con reporte de nota pregrado 202201 2022 01",
+            "patterns": [
+                "fecha habilitacion con reporte de nota pregrado 202201 2022 01"
+            ],
+            "responses": [
+                "8 de julio 2022"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "fecha cierre academico pregrado 202201 2022 01",
+            "patterns": [
+                "fecha cierre academico pregrado 202201 2022 01"
+            ],
+            "responses": [
+                "11 de julio 2022"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "fecha publicacion del cuadro de honor pregrado 202201 2022 01",
+            "patterns": [
+                "fecha publicacion del cuadro de honor pregrado 202201 2022 01"
+            ],
+            "responses": [
+                "18 de julio de 2022"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "fecha plazo maximo para reportar nota de evaluacion diferida final pregrado 202201 2022 01",
+            "patterns": [
+                "fecha plazo maximo para reportar nota de evaluacion diferida final pregrado 202201 2022 01"
+            ],
+            "responses": [
+                "Hasta el 01 de julio de 2022"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "fecha plazo maximo para radicar solicitud de auxilio educativo pregrado 202201 2022 01",
+            "patterns": [
+                "fecha plazo maximo para radicar solicitud de auxilio educativo pregrado 202201 2022 01"
+            ],
+            "responses": [
+                "03 de junio de 2022"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "fecha plazo maximo para radicar solicitud de beca pregrado 202201 2022 01",
+            "patterns": [
+                "fecha plazo maximo para radicar solicitud de beca pregrado 202201 2022 01"
+            ],
+            "responses": [
+                "03 de junio de 2022"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "fecha 1 seguimiento de plan de accion anual pregrado 202201 2022 01",
+            "patterns": [
+                "fecha 1 seguimiento de plan de accion anual pregrado 202201 2022 01"
+            ],
+            "responses": [
+                "18 de abril al 13 de mayo de 2022"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "fecha publicacion de resultado comite de beca pregrado 202201 2022 01",
+            "patterns": [
+                "fecha publicacion de resultado comite de beca pregrado 202201 2022 01"
+            ],
+            "responses": [
+                "24 de junio de 2022"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "fecha inscripcion ingreso por primera vez transferencia externa o interna y reingreso posgrado 202201 2022 01",
+            "patterns": [
+                "fecha inscripcion ingreso por primera vez transferencia externa o interna y reingreso posgrado 202201 2022 01"
+            ],
+            "responses": [
+                "Del 01 de octubre del 2021 Hasta el 22 de febrero 2022"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "fecha entrevista ingreso 1 era vez posgrado 202201 2022 01",
+            "patterns": [
+                "fecha entrevista ingreso 1 era vez posgrado 202201 2022 01"
+            ],
+            "responses": [
+                "Del 3 noviembre del 2021 hasta 19 de febrero del 2022"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "fecha matricula ordinaria con pronto pago para estudiante nuevo reingreso transferencia externa posgrado 202201 2022 01",
+            "patterns": [
+                "fecha matricula ordinaria con pronto pago para estudiante nuevo reingreso transferencia externa posgrado 202201 2022 01"
+            ],
+            "responses": [
+                "20% + 10% de Feria Del 01 de octubre al 30 de noviembre 2021   20% Del 02 al 30 de noviembre de 2021"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "fecha matricula ordinaria pronto pago estudiante antiguo y transferencia interna posgrado 202201 2022 01",
+            "patterns": [
+                "fecha matricula ordinaria pronto pago estudiante antiguo y transferencia interna posgrado 202201 2022 01"
+            ],
+            "responses": [
+                "20% Del 15 de noviembre al 30 de noviembre de 2021 15% Del 01 de diciembre al 16 de diciembre de 2021 10% Del 17 de diciembre al 30 de diciembre 2021 5% Del 02 enero hasta el 16 de enero de 2022 Ordinaria, del 17 de enero hasta el 28 de febrero de 2022"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "fecha iniciacion de clas estudiante nuevo y antiguo posgrado 202201 2022 01",
+            "patterns": [
+                "fecha iniciacion de clas estudiante nuevo y antiguo posgrado 202201 2022 01"
+            ],
+            "responses": [
+                "04 de marzo 2022"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "fecha examen de validacion posgrado 202201 2022 01",
+            "patterns": [
+                "fecha examen de validacion posgrado 202201 2022 01"
+            ],
+            "responses": [
+                "Del 7 al 19 de febrero de 2022"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "fecha aplicacion del examen de validacion posgrado 202201 2022 01",
+            "patterns": [
+                "fecha aplicacion del examen de validacion posgrado 202201 2022 01"
+            ],
+            "responses": [
+                "Del 21 al 26 de febrero de 2022"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "fecha carga adicional posgrado 202201 2022 01",
+            "patterns": [
+                "fecha carga adicional posgrado 202201 2022 01"
+            ],
+            "responses": [
+                "Del 04 de marzo al 18 de marzo de 2022"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "fecha finalizacion de clas posgrado 202201 2022 01",
+            "patterns": [
+                "fecha finalizacion de clas posgrado 202201 2022 01"
+            ],
+            "responses": [
+                "02 de Julio 2022"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "fecha congelamiento posgrado posgrado 202201 2022 01",
+            "patterns": [
+                "fecha congelamiento posgrado posgrado 202201 2022 01"
+            ],
+            "responses": [
+                "Hasta el 25 de marzo de 2022"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "fecha devolucion de matricula posgrado posgrado 202201 2022 01",
+            "patterns": [
+                "fecha devolucion de matricula posgrado posgrado 202201 2022 01"
+            ],
+            "responses": [
+                "Hasta el 03 de marzo de 2022"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "fecha iniciacion de clas estudiante nuevo y antiguo posgrado 202201 2022 01",
+            "patterns": [
+                "fecha iniciacion de clas estudiante nuevo y antiguo posgrado 202201 2022 01"
+            ],
+            "responses": [
+                "07 de marzo 2022"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "fecha examen de validacion posgrado 202201 2022 01",
+            "patterns": [
+                "fecha examen de validacion posgrado 202201 2022 01"
+            ],
+            "responses": [
+                "Del 14 al 25 de febrero de 2022"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "fecha aplicacion del examen de validacion posgrado 202201 2022 01",
+            "patterns": [
+                "fecha aplicacion del examen de validacion posgrado 202201 2022 01"
+            ],
+            "responses": [
+                "Del 28 de febrero al 4 de marzo de 2022"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "fecha carga adicional posgrado 202201 2022 01",
+            "patterns": [
+                "fecha carga adicional posgrado 202201 2022 01"
+            ],
+            "responses": [
+                "Del 07 al 19 de marzo de 2022"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "fecha finalizacion de clas posgrado 202201 2022 01",
+            "patterns": [
+                "fecha finalizacion de clas posgrado 202201 2022 01"
+            ],
+            "responses": [
+                "03 de Julio 2022"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "fecha congelamiento posgrado posgrado 202201 2022 01",
+            "patterns": [
+                "fecha congelamiento posgrado posgrado 202201 2022 01"
+            ],
+            "responses": [
+                "Hasta el 25 de marzo de 2022"
+            ],
+            "context_set": ""
+        },
+        {
+            "tag": "fecha devolucion de matricula posgrado posgrado 202201 2022 01",
+            "patterns": [
+                "fecha devolucion de matricula posgrado posgrado 202201 2022 01"
+            ],
+            "responses": [
+                "Hasta el 04 de marzo de 2022"
+            ],
+            "context_set": ""
+        },
+        {
             "tag": "procedimiento certificado academico",
             "patterns": [
                 "procedimiento certificado academico"
@@ -1281,256 +1901,6 @@
             "context_set": ""
         },
         {
-            "tag": "valor de matricula arquitectura",
-            "patterns": [
-                "valor de matricula arquitectura"
-            ],
-            "responses": [
-                "ESTUDIANTES ANTIGUOS: $5.015.700\nESTUDIANTES NUEVOS: $5.061.401\nPERIODOS: 10\nCR\u00c9DITOS ACAD\u00c9MICOS: 160\n"
-            ],
-            "context_set": ""
-        },
-        {
-            "tag": "valor de matricula diseno grafico",
-            "patterns": [
-                "valor de matricula diseno grafico"
-            ],
-            "responses": [
-                "ESTUDIANTES ANTIGUOS: $4.184.869\nESTUDIANTES NUEVOS: $4.223.030\nPERIODOS: 8\nCR\u00c9DITOS ACAD\u00c9MICOS: 144\n"
-            ],
-            "context_set": ""
-        },
-        {
-            "tag": "valor de matricula diseno de espacio",
-            "patterns": [
-                "valor de matricula diseno de espacio"
-            ],
-            "responses": [
-                "ESTUDIANTES ANTIGUOS: $4.184.869\nESTUDIANTES NUEVOS: $4.223.030\nPERIODOS: 8\nCR\u00c9DITOS ACAD\u00c9MICOS: 144\n"
-            ],
-            "context_set": ""
-        },
-        {
-            "tag": "valor de matricula diseno de moda",
-            "patterns": [
-                "valor de matricula diseno de moda"
-            ],
-            "responses": [
-                "ESTUDIANTES ANTIGUOS: $4.184.869\nESTUDIANTES NUEVOS: $4.223.030\nPERIODOS: 8\nCR\u00c9DITOS ACAD\u00c9MICOS: 144\n"
-            ],
-            "context_set": ""
-        },
-        {
-            "tag": "valor de matricula ingenieria de sistema",
-            "patterns": [
-                "valor de matricula ingenieria de sistema"
-            ],
-            "responses": [
-                "ESTUDIANTES ANTIGUOS: $5.082.446\nESTUDIANTES NUEVOS: $5.082.446\nPERIODOS: 9\nCR\u00c9DITOS ACAD\u00c9MICOS: 150\n"
-            ],
-            "context_set": ""
-        },
-        {
-            "tag": "valor de matricula ingenieria electronica y telecomunicacion",
-            "patterns": [
-                "valor de matricula ingenieria electronica y telecomunicacion"
-            ],
-            "responses": [
-                "ESTUDIANTES ANTIGUOS: $5.151.003\nESTUDIANTES NUEVOS: $5.151.003\nPERIODOS: 9\nCR\u00c9DITOS ACAD\u00c9MICOS: 156\n"
-            ],
-            "context_set": ""
-        },
-        {
-            "tag": "valor de matricula ingenieria industrial",
-            "patterns": [
-                "valor de matricula ingenieria industrial"
-            ],
-            "responses": [
-                "ESTUDIANTES ANTIGUOS: $5.322.439\nESTUDIANTES NUEVOS: $5.322.439\nPERIODOS: 9\nCR\u00c9DITOS ACAD\u00c9MICOS: 164\n"
-            ],
-            "context_set": ""
-        },
-        {
-            "tag": "valor de matricula ingenieria de material",
-            "patterns": [
-                "valor de matricula ingenieria de material"
-            ],
-            "responses": [
-                "ESTUDIANTES ANTIGUOS: $4.200.813\nESTUDIANTES NUEVOS: \nPERIODOS: \nCR\u00c9DITOS ACAD\u00c9MICOS: \n"
-            ],
-            "context_set": ""
-        },
-        {
-            "tag": "valor de matricula ingenieria mecanica",
-            "patterns": [
-                "valor de matricula ingenieria mecanica"
-            ],
-            "responses": [
-                "ESTUDIANTES ANTIGUOS: $4.728.947\nESTUDIANTES NUEVOS: $4.771.357\nPERIODOS: 9\nCR\u00c9DITOS ACAD\u00c9MICOS: 160\n"
-            ],
-            "context_set": ""
-        },
-        {
-            "tag": "valor de matricula ingenieria mecatronica",
-            "patterns": [
-                "valor de matricula ingenieria mecatronica"
-            ],
-            "responses": [
-                "ESTUDIANTES ANTIGUOS: $5.322.439\nESTUDIANTES NUEVOS: $5.322.439\nPERIODOS: 9\nCR\u00c9DITOS ACAD\u00c9MICOS: 166\n"
-            ],
-            "context_set": ""
-        },
-        {
-            "tag": "valor de matricula tecnologia en analisis y diseno de sistema y computacion",
-            "patterns": [
-                "valor de matricula tecnologia en analisis y diseno de sistema y computacion"
-            ],
-            "responses": [
-                "ESTUDIANTES ANTIGUOS: $2.365.369\nESTUDIANTES NUEVOS: \nPERIODOS: 6\nCR\u00c9DITOS ACAD\u00c9MICOS: 95\n"
-            ],
-            "context_set": ""
-        },
-        {
-            "tag": "valor de matricula administracion de empresa",
-            "patterns": [
-                "valor de matricula administracion de empresa"
-            ],
-            "responses": [
-                "ESTUDIANTES ANTIGUOS: $4.226.857\nESTUDIANTES NUEVOS: $4.226.857\nPERIODOS: 9\nCR\u00c9DITOS ACAD\u00c9MICOS: 159\n"
-            ],
-            "context_set": ""
-        },
-        {
-            "tag": "valor de matricula administracion de empresa turistica y hotelera",
-            "patterns": [
-                "valor de matricula administracion de empresa turistica y hotelera"
-            ],
-            "responses": [
-                "ESTUDIANTES ANTIGUOS: $3.948.065\nESTUDIANTES NUEVOS: $3.983.994\nPERIODOS: 9\nCR\u00c9DITOS ACAD\u00c9MICOS: 160\n"
-            ],
-            "context_set": ""
-        },
-        {
-            "tag": "valor de matricula administracion maritima y fluvial",
-            "patterns": [
-                "valor de matricula administracion maritima y fluvial"
-            ],
-            "responses": [
-                "ESTUDIANTES ANTIGUOS: $3.258.883\nESTUDIANTES NUEVOS: $3.258.883\nPERIODOS: 9\nCR\u00c9DITOS ACAD\u00c9MICOS: 154\n"
-            ],
-            "context_set": ""
-        },
-        {
-            "tag": "valor de matricula contaduria publica",
-            "patterns": [
-                "valor de matricula contaduria publica"
-            ],
-            "responses": [
-                "ESTUDIANTES ANTIGUOS: $3.840.186\nESTUDIANTES NUEVOS: $3.840.186\nPERIODOS: 8\nCR\u00c9DITOS ACAD\u00c9MICOS: 145\n"
-            ],
-            "context_set": ""
-        },
-        {
-            "tag": "valor de matricula negocio y finanza internacional",
-            "patterns": [
-                "valor de matricula negocio y finanza internacional"
-            ],
-            "responses": [
-                "ESTUDIANTES ANTIGUOS: $5.203.297\nESTUDIANTES NUEVOS: $5.250.592\nPERIODOS: 9\nCR\u00c9DITOS ACAD\u00c9MICOS: 151\n"
-            ],
-            "context_set": ""
-        },
-        {
-            "tag": "valor de matricula tecnica profesional en operacion portuaria",
-            "patterns": [
-                "valor de matricula tecnica profesional en operacion portuaria"
-            ],
-            "responses": [
-                "ESTUDIANTES ANTIGUOS: $1.877.740\nESTUDIANTES NUEVOS: $1.877.740\nPERIODOS: 4\nCR\u00c9DITOS ACAD\u00c9MICOS: 67\n"
-            ],
-            "context_set": ""
-        },
-        {
-            "tag": "valor de matricula tecnologia en gestion portuaria",
-            "patterns": [
-                "valor de matricula tecnologia en gestion portuaria"
-            ],
-            "responses": [
-                "ESTUDIANTES ANTIGUOS: $2.652.554\nESTUDIANTES NUEVOS: $2.604.724\nPERIODOS: 6\nCR\u00c9DITOS ACAD\u00c9MICOS: 100\n"
-            ],
-            "context_set": ""
-        },
-        {
-            "tag": "valor de matricula comunicacion social",
-            "patterns": [
-                "valor de matricula comunicacion social"
-            ],
-            "responses": [
-                "ESTUDIANTES ANTIGUOS: $5.445.203\nESTUDIANTES NUEVOS: $5.494.730\nPERIODOS: 9\nCR\u00c9DITOS ACAD\u00c9MICOS: 153\n"
-            ],
-            "context_set": ""
-        },
-        {
-            "tag": "valor de matricula deporte y cultura fisica",
-            "patterns": [
-                "valor de matricula deporte y cultura fisica"
-            ],
-            "responses": [
-                "ESTUDIANTES ANTIGUOS: $3.844.228\nESTUDIANTES NUEVOS: $3.774.818\nPERIODOS: 9\nCR\u00c9DITOS ACAD\u00c9MICOS: 150\n"
-            ],
-            "context_set": ""
-        },
-        {
-            "tag": "valor de matricula comunicacion audiovisual",
-            "patterns": [
-                "valor de matricula comunicacion audiovisual"
-            ],
-            "responses": [
-                "ESTUDIANTES ANTIGUOS: $4.263.835\nESTUDIANTES NUEVOS: $4.302.634\nPERIODOS: 8\nCR\u00c9DITOS ACAD\u00c9MICOS: 140\n"
-            ],
-            "context_set": ""
-        },
-        {
-            "tag": "valor de matricula psicologia",
-            "patterns": [
-                "valor de matricula psicologia"
-            ],
-            "responses": [
-                "ESTUDIANTES ANTIGUOS: $4.008.176\nESTUDIANTES NUEVOS: $4.008.176\nPERIODOS: 9\nCR\u00c9DITOS ACAD\u00c9MICOS: 156\n"
-            ],
-            "context_set": ""
-        },
-        {
-            "tag": "valor de matricula ciencia politica",
-            "patterns": [
-                "valor de matricula ciencia politica"
-            ],
-            "responses": [
-                "ESTUDIANTES ANTIGUOS: $5.003.902\nESTUDIANTES NUEVOS: $5.003.902\nPERIODOS: 8\nCR\u00c9DITOS ACAD\u00c9MICOS: 128\n"
-            ],
-            "context_set": ""
-        },
-        {
-            "tag": "valor de matricula derecho",
-            "patterns": [
-                "valor de matricula derecho"
-            ],
-            "responses": [
-                "ESTUDIANTES ANTIGUOS: $3.625.815\nESTUDIANTES NUEVOS: $3.658.761\nPERIODOS: 10\nCR\u00c9DITOS ACAD\u00c9MICOS: 160\n"
-            ],
-            "context_set": ""
-        },
-        {
-            "tag": "valor de matricula derecho",
-            "patterns": [
-                "valor de matricula derecho"
-            ],
-            "responses": [
-                "ESTUDIANTES ANTIGUOS: $2.874.793\nESTUDIANTES NUEVOS: \nPERIODOS: \nCR\u00c9DITOS ACAD\u00c9MICOS: \n"
-            ],
-            "context_set": ""
-        },
-        {
             "tag": "numero de contacto canal de atencion equipo de mercadeo",
             "patterns": [
                 "numero de contacto canal de atencion equipo de mercadeo"
@@ -1606,7 +1976,7 @@
                 "numero de contacto canal de atencion facultad de ciencia social y humana"
             ],
             "responses": [
-                "PROGRAMA: Comunicaci\u00f3n Audiovisual\n\nFUNCIONARIO: Carmen De Le\u00f3n\n\nCELULAR: 3183780119\n\nCORREO ELECTR\u00d3NICO: carmen.deleon@uac.edu.co\n\n-------------------------------\nPROGRAMA: Psicolog\u00eda\n\nFUNCIONARIO: Valerys Daza\n\nCELULAR: 3045357036\n\nCORREO ELECTR\u00d3NICO: valerys.daza@uac.edu.co\n\n-------------------------------\nPROGRAMA: Deporte y Cultura F\u00edsica\n\nFUNCIONARIO: Yolima Medina\n\nCELULAR: 3022879167\n\nCORREO ELECTR\u00d3NICO: yolima.medina@uac.edu.co\n\n-------------------------------\nPROGRAMA: Especializaciones en Comunicaci\u00f3n\n\nFUNCIONARIO: Vanina Linces\n\nCELULAR: 3044642371\n\nCORREO ELECTR\u00d3NICO: vanina.linces@uac.edu.co\n\n-------------------------------\nPROGRAMA: Comunicaci\u00f3n Social - Periodismo\n\nFUNCIONARIO: Adela Hern\u00e1ndez\n\nCELULAR: 3157176439\n\nCORREO ELECTR\u00d3NICO: adela.hernandez@uac.edu.co\n\n-------------------------------\n"
+                "PROGRAMA: Comunicaci\u00f3n Audiovisual\n\nFUNCIONARIO: Carmen De Le\u00f3n\n\nCELULAR: 3183780119\n\nCORREO ELECTR\u00d3NICO: carmen.deleon@uac.edu.co\n\n-------------------------------\nPROGRAMA: Psicolog\u00eda\n\nFUNCIONARIO: Valerys Daza\n\nCELULAR: 3045357036\n\nCORREO ELECTR\u00d3NICO: valerys.daza@uac.edu.co\n\n-------------------------------\nPROGRAMA: Deporte y Cultura F\u00edsica\n\nFUNCIONARIO: Yolima Medina\n\nCORREO ELECTR\u00d3NICO: yolima.medina@uac.edu.co\n\n-------------------------------\nPROGRAMA: Especializaciones en Comunicaci\u00f3n\n\nFUNCIONARIO: Vanina Linces\n\nCELULAR: 3044642371\n\nCORREO ELECTR\u00d3NICO: vanina.linces@uac.edu.co\n\n-------------------------------\nPROGRAMA: Comunicaci\u00f3n Social - Periodismo\n\nFUNCIONARIO: Adela Hern\u00e1ndez\n\nCELULAR: 3157176439\n\nCORREO ELECTR\u00d3NICO: adela.hernandez@uac.edu.co\n\n-------------------------------\n"
             ],
             "context_set": ""
         },

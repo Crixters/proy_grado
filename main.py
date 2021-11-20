@@ -17,7 +17,7 @@ app.config['CORS_HEADERS'] = 'Content-Type'
 bot_intents_creation.create_all_intents_and_save()
 create_bot_model()
 
-@app.route('/app/v1/bot',methods=["GET"])
+@app.route('/api/v1/botResponse',methods=["GET"])
 @cross_origin()
 def bot():
 
