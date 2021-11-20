@@ -17,11 +17,6 @@ print("...")
 bot_intents_creation.create_all_intents_and_save()
 create_bot_model()
 
-@app.route('/',methods=["GET"])
-@cross_origin()
-def initialRoute():
-    print("SERVER RUNNING")
-
 @app.route('/api/v1/botResponse',methods=["GET"])
 @cross_origin()
 def bot():
