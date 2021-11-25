@@ -17,6 +17,7 @@ nltk.download('punkt')
 nltk.download('wordnet')
 lemmatizer = WordNetLemmatizer()
 
+
 def create_bot_model():
 
     # Initializing Chatbot Training
@@ -26,7 +27,6 @@ def create_bot_model():
     ignore_words = ['?', '!']
     data_file = open('intents.json').read()
     intents = json.loads(data_file)
-
 
     for intent in intents['intents']:
         for pattern in intent['patterns']:
@@ -41,16 +41,14 @@ def create_bot_model():
             if intent['tag'] not in classes:
                 classes.append(intent['tag'])
 
-
     words = [lemmatizer.lemmatize(w.lower())
-            for w in words if w not in ignore_words]
+             for w in words if w not in ignore_words]
     words = sorted(list(set(words)))
 
     classes = sorted(list(set(classes)))
 
     pickle.dump(words, open('words.pkl', 'wb'))
     pickle.dump(classes, open('classes.pkl', 'wb'))
-
 
     # BUILDING THE DEEP LEARNING MODEL
 
@@ -81,7 +79,6 @@ def create_bot_model():
     train_x = list(training[:, 0])
     train_y = list(training[:, 1])
 
-
     # Create model - 3 layers. First layer 128 neurons, second layer 64 neurons and 3rd output layer contains number of neurons
     # equal to number of intents to predict output intent with softmax
     model = Sequential()
@@ -94,11 +91,11 @@ def create_bot_model():
     # Compile model. Stochastic gradient descent with Nesterov accelerated gradient gives good results for this model
     sgd = SGD(lr=0.01, decay=1e-6, momentum=0.9, nesterov=True)
     model.compile(loss='categorical_crossentropy',
-                optimizer=sgd, metrics=['accuracy'])
+                  optimizer=sgd, metrics=['accuracy'])
 
     # fitting and saving the model
     hist = model.fit(np.array(train_x), np.array(train_y),
-                    epochs=200, batch_size=5, verbose=1)
+                     epochs=200, batch_size=5, verbose=1)
     model.save('chatbot_model.h5', hist)
 
     print("model created")
@@ -137,7 +134,7 @@ def predict_class(sentence, model):
     # filter out predictions below a threshold
     p = bow(sentence, words, show_details=False)
     res = model.predict(np.array([p]))[0]
-    ERROR_THRESHOLD = 0.25
+    ERROR_THRESHOLD = 0.05
     results = [[i, r] for i, r in enumerate(res) if r > ERROR_THRESHOLD]
     # sort by strength of probability
     results.sort(key=lambda x: x[1], reverse=True)
@@ -163,9 +160,8 @@ def chatbot_response(msg):
 
     ints = predict_class(msg, model)
     res = ""
-    if(len(ints)==0):
+    if(len(ints) == 0):
         res = "Lo siento no pude entenderte, ¿Podrías repetirlo de otra forma?"
     else:
         res = getResponse(ints, intents)
     return res
-

@@ -15,24 +15,26 @@ cors = CORS(app)
 app.config['CORS_HEADERS'] = 'Content-Type'
 
 
-@app.route('/api/v1/createBotModel',methods=["GET"])
+@app.route('/api/v1/createBotModel', methods=["GET"])
 @cross_origin()
 def create_bot_model_endpoint():
 
-    bot_intents_creation.create_all_intents_and_save()
+    # bot_intents_creation.create_all_intents_and_save()
     create_bot_model()
     return "true"
 
-@app.route('/api/v1/botResponse',methods=["GET"])
+
+@app.route('/api/v1/botResponse', methods=["GET"])
 @cross_origin()
 def bot():
 
     input = request.args.get("input")
     input = utils.adapt_phrase_to_bot(input)
-    
+
     response_from_chatbot = chatbot_response(input)
-    flask_response = { "response":response_from_chatbot }
+    flask_response = {"response": response_from_chatbot}
 
     return jsonify(flask_response)
+
 
 app.run(debug=True)
