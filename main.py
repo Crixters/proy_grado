@@ -9,13 +9,19 @@ from bot_creation import chatbot_response
 from bot_creation import create_bot_model
 
 import utils
-####
+
 app = Flask(__name__)
 cors = CORS(app)
 app.config['CORS_HEADERS'] = 'Content-Type'
-print("...")
-bot_intents_creation.create_all_intents_and_save()
-create_bot_model()
+
+
+@app.route('/api/v1/createBotModel',methods=["GET"])
+@cross_origin()
+def create_bot_model_endpoint():
+
+    bot_intents_creation.create_all_intents_and_save()
+    create_bot_model()
+    return "true"
 
 @app.route('/api/v1/botResponse',methods=["GET"])
 @cross_origin()
