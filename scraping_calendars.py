@@ -47,7 +47,8 @@ def get_academic_calendar_questions_answers(url_calendar):
                     questions.append(
                         utils.adapt_phrase_to_bot("fecha "+academic_event + " periodo "+calendar_period[:-2]+" "+calendar_period[-2:]))
                     questions_answer.append(questions)
-                    questions_answer.append(answer)
+                    questions_answer.append(
+                        "Fecha "+academic_event + " periodo "+calendar_period+": "+answer)
                     questions_answers_array.append(questions_answer)
 
     return questions_answers_array

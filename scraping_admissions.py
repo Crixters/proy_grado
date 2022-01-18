@@ -29,7 +29,7 @@ def get_admission_process_questions_answers(url, given_questions):
     for question in given_questions:
         questions.append(utils.adapt_phrase_to_bot(question.lower()))
     questions_answer.append(questions)
-    questions_answer.append(answer)
+    questions_answer.append("• "+given_questions[0]+":\n\n"+answer)
     questions_answers_array.append(questions_answer)
 
     return questions_answers_array

@@ -24,9 +24,7 @@ def get_support_questions_answers():
         questions = []
 
         department_title = tab_panel.find('h5').get_text().strip()
-
         contact_text = ""
-
         support_information_body = tab_panel.find(
             'div', {'class': 'card-body'})
         support_information_tables = support_information_body.find_all('table')
@@ -58,9 +56,18 @@ def get_support_questions_answers():
             "canales de atencion " + department_title))
         questions.append(utils.adapt_phrase_to_bot(
             "numero de contacto " + department_title))
+        questions.append(utils.adapt_phrase_to_bot(
+            "numero o canales de comunicacion " + department_title))
+        questions.append(utils.adapt_phrase_to_bot(
+            "numero o canal para hablar " + department_title))
+        questions.append(utils.adapt_phrase_to_bot(
+            "numero o canal para escribir " + department_title))
+        questions.append(utils.adapt_phrase_to_bot(
+            "numero o canal para informarme" + department_title))
 
         questions_answer.append(questions)
-        questions_answer.append(contact_text)
+        questions_answer.append(
+            "• Canal de atención "+department_title+":\n\n"+contact_text)
         questions_answers_array.append(questions_answer)
 
     return questions_answers_array

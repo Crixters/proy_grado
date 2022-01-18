@@ -19,7 +19,7 @@ app.config['CORS_HEADERS'] = 'Content-Type'
 @cross_origin()
 def create_bot_model_endpoint():
 
-    # bot_intents_creation.create_all_intents_and_save()
+    bot_intents_creation.create_all_intents_and_save()
     create_bot_model()
     return "true"
 
@@ -37,4 +37,4 @@ def bot():
     return jsonify(flask_response)
 
 
-app.run(debug=True)
+app.run(debug=False, host="0.0.0.0")

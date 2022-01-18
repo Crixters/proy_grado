@@ -24,10 +24,6 @@ def get_uac_tuition_prices_questions_answers():
             questions_answer = []
             questions = []
             first_td = tr.find('td', {'class': 'first'})
-            question = "valor de matricula " + \
-                first_td.get_text(strip=True).split("-")[0]
-            question = utils.adapt_phrase_to_bot(question)
-
             first_td.extract()
             tds = tr.find_all('td')
             answer = ""
@@ -41,8 +37,12 @@ def get_uac_tuition_prices_questions_answers():
                 "costo de matricula "+first_td.get_text(strip=True).split("-")[0]))
             questions.append(utils.adapt_phrase_to_bot(
                 "precio de matricula "+first_td.get_text(strip=True).split("-")[0]))
-            questions_answer.append(question)
-            questions_answer.append(answer)
+            questions.append(utils.adapt_phrase_to_bot(
+                "monto de matricula "+first_td.get_text(strip=True).split("-")[0]))
+            questions.append(utils.adapt_phrase_to_bot(
+                "suma total costo de matricula "+first_td.get_text(strip=True).split("-")[0]))
+            questions_answer.append(
+                "• Costo de matrícula "+first_td.get_text(strip=True).split("-")[0]+":\n\n" + answer)
             question_answers_array.append(questions_answer)
 
     return question_answers_array
@@ -64,11 +64,16 @@ def get_uac_programs_questions_answers(url, question):
     program_name_links = div_programs.find_all('a')
 
     for program_name_link in program_name_links:
-        answer = answer + program_name_link.get_text(strip=True)+"\n"
+        answer = answer + program_name_link.get_text(strip=True)+"\n\n"
 
     questions.append(utils.adapt_phrase_to_bot(question))
+    questions.append(utils.adapt_phrase_to_bot("lista total de programas"))
+    questions.append(utils.adapt_phrase_to_bot("cuales son los "+question))
+    questions.append(utils.adapt_phrase_to_bot("lista de "+question))
+    questions.append(utils.adapt_phrase_to_bot("lista "+question))
+    questions.append(utils.adapt_phrase_to_bot("lista de todos los "+question))
     questions_answer.append(questions)
-    questions_answer.append(answer)
+    questions_answer.append("• "+question+":\n"+answer)
     questions_answers_array.append(questions_answer)
 
     return questions_answers_array
