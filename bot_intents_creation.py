@@ -49,7 +49,7 @@ def create_all_intents_and_save():
     posgrado_next_year_01_questions_answers_array = scraping_calendars.get_academic_calendar_questions_answers(
         scraping_calendars.url_posgrado_next_year_01)
     procedure_additional_charge_questions_answers_array = scraping_procedures.get_procedures_requests_questions_answers(
-        "https://www.uac.edu.co/admisiones-y-registro/registro-y-control/carga-adicional", ["procedimiento carga adicional", "proceso carga adicional", "trámite carga adicional"])
+        "https://www.uac.edu.co/admisiones-y-registro/registro-y-control/carga-adicional", ["procedimiento radicar carga adicional", "proceso radicar carga adicional", "trámite radicar carga adicional"])
     procedure_supplemental_exam_questions_answers_array = scraping_procedures.get_procedures_requests_questions_answers(
         "https://www.uac.edu.co/admisiones-y-registro/registro-y-control/examen-supletorio", ["procedimiento examen evaluacion supletorio materia asignatura", "proceso examen evaluacion supletorio materia asignatura", "trámite examen evaluacion supletorio materia asignatura", "procedimiento examen evaluacion diferido", "proceso examen evaluacion diferido materia asignatura", "trámite examen evaluacion diferido materia asignatura", "procedimiento examen evaluacion diferido materia asignatura", "proceso examen evaluacion diferido", "trámite examen evaluacion diferido", "procedimiento examen evaluacion habilitacion materia asignatura", "proceso examen evaluacion habilitacion materia asignatura", "trámite examen evaluacion habilitacion materia asignatura"])
     procedure_freezing_refund_questions_answers_array = scraping_procedures.get_procedures_requests_questions_answers(

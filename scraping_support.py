@@ -57,13 +57,13 @@ def get_support_questions_answers():
         questions.append(utils.adapt_phrase_to_bot(
             "numero de contacto " + department_title))
         questions.append(utils.adapt_phrase_to_bot(
-            "numero o canales de comunicacion " + department_title))
+            "numero o canales comunicacion " + department_title))
         questions.append(utils.adapt_phrase_to_bot(
-            "numero o canal para hablar " + department_title))
+            "numero o canal hablar " + department_title))
         questions.append(utils.adapt_phrase_to_bot(
-            "numero o canal para escribir " + department_title))
+            "numero o canal escribir " + department_title))
         questions.append(utils.adapt_phrase_to_bot(
-            "numero o canal para informarme" + department_title))
+            "numero o canal informar " + department_title))
 
         questions_answer.append(questions)
         questions_answer.append(

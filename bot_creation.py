@@ -95,7 +95,7 @@ def create_bot_model():
 
     # fitting and saving the model
     hist = model.fit(np.array(train_x), np.array(train_y),
-                     epochs=50, batch_size=20, verbose=1)
+                     epochs=150, batch_size=50, verbose=1)
     model.save('chatbot_model.h5', hist)
 
     print("model created")
