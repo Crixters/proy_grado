@@ -2,6 +2,8 @@ from flask import Flask
 from flask import request
 from flask import jsonify
 from flask_cors import CORS, cross_origin
+import schedule 
+import time
 
 import bot_intents_creation
 
@@ -15,9 +17,9 @@ cors = CORS(app)
 app.config['CORS_HEADERS'] = 'Content-Type'
 
 
-@app.route('/api/v1/createBotModel', methods=["GET"])
-@cross_origin()
-def create_bot_model_endpoint():
+#@app.route('/api/v1/createBotModel', methods=["GET"])
+#@cross_origin()
+def create_bot_model():
 
     bot_intents_creation.create_all_intents_and_save()
     create_bot_model()
@@ -36,5 +38,10 @@ def bot():
 
     return jsonify(flask_response)
 
+schedule.every(24).hours.do(create_bot_model)
 
 app.run(debug=False, host="0.0.0.0")
+
+while True:
+    schedule.run_pending()
+    time.sleep(1)
